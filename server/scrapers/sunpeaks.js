@@ -1,31 +1,58 @@
 import puppeteer from 'puppeteer'
 
-const SUNPEAKS_URL = 'https://www.sunpeaksresort.com/ski-ride/mountain-stats'
+const URL = 'https://www.sunpeaksresort.com/ski-ride/weather-conditions-cams/weather-snow-report'
 
 export async function scrapeSunPeaks() {
-  const browser = await puppeteer.launch({ headless: true })
+  const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] })
   const page = await browser.newPage()
 
   try {
-    await page.goto(SUNPEAKS_URL, { waitUntil: 'networkidle2', timeout: 30000 })
+    await page.goto(URL, { waitUntil: 'networkidle2', timeout: 30000 })
 
-    // Dump all text with cm to find selectors
-    const content = await page.evaluate(() => {
-      const results = []
-      document.querySelectorAll('*').forEach(el => {
-        const text = el.innerText?.trim()
-        if (text && text.length < 100 && text.match(/\d+\s*cm/i)) {
-          results.push({ tag: el.tagName, class: el.className, text })
+    const data = await page.evaluate(() => {
+      const getSnowByLabel = (label) => {
+        const items = document.querySelectorAll('ul.list-snow li')
+        for (const item of items) {
+          if (item.innerText.toUpperCase().includes(label)) {
+            return item.querySelector('.inner')?.innerText.trim().replace('\n', '') || null
+          }
         }
-      })
-      return results
+        return null
+      }
+
+      const getBaseByLabel = (label) => {
+        const items = document.querySelectorAll('ul.list-snow.snow-base li')
+        for (const item of items) {
+          if (item.innerText.toUpperCase().includes(label)) {
+            return item.querySelector('.inner')?.innerText.trim().replace('\n', '') || null
+          }
+        }
+        return null
+      }
+
+      return {
+        snow: {
+          base: getBaseByLabel('MID MOUNTAIN'),
+          summit: getBaseByLabel('ALPINE'),
+          newSnow: getSnowByLabel('NEW SNOW'),
+          snowfall24h: getSnowByLabel('24 HR'),
+          snowfall48h: getSnowByLabel('48 HR'),
+          snowfall7day: getSnowByLabel('7 DAYS'),
+        },
+        isOpen: true
+      }
     })
 
-    require('fs').writeFileSync('/tmp/sunpeaks_debug.json', JSON.stringify(content, null, 2))
-    console.log('Sun Peaks debug written to /tmp/sunpeaks_debug.json')
+    return {
+      name: 'Sun Peaks',
+      location: 'Sun Peaks, BC',
+      lastUpdated: new Date().toISOString(),
+      ...data
+    }
 
   } catch (error) {
     console.error('Sun Peaks scraper failed:', error.message)
+    return null
   } finally {
     await browser.close()
   }

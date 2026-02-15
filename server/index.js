@@ -20,5 +20,6 @@ app.get('/health', (req, res) => {
 app.listen(PORT, () => {
   console.log(`SnowDesk server running on port ${PORT}`)
 })
-import { scrapeBlueMountain } from './scrapers/bluemountain.js'
-scrapeBlueMountain()
+
+import { scrapeSunPeaks } from './scrapers/sunpeaks.js'
+scrapeSunPeaks()

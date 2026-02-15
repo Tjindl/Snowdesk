@@ -3,7 +3,7 @@ import puppeteer from 'puppeteer'
 const WHISTLER_URL = 'https://www.whistlerblackcomb.com/the-mountain/mountain-conditions/snow-and-weather-report.aspx'
 
 export async function scrapeWhistler() {
-  const browser = await puppeteer.launch({ headless: true })
+  const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] })
   const page = await browser.newPage()
 
   try {

@@ -1,8 +1,10 @@
 import express from 'express'
-import { scrapeWhistler } from '../scrapers/whistler.js'
-import { scrapeBlueMountain } from '../scrapers/bluemountain.js'
 import cron from 'node-cron'
-
+import { scrapeWhistler } from '../scrapers/whistler.js'
+import { scrapeCypress } from '../scrapers/cypress.js'
+import { scrapeGrouse } from '../scrapers/grouse.js'
+import { scrapeSeymour } from '../scrapers/seymour.js'
+import { scrapeSunPeaks } from '../scrapers/sunpeaks.js'
 const router = express.Router()
 
 let cache = {
@@ -12,11 +14,14 @@ let cache = {
 
 async function refreshCache() {
   console.log('Refreshing resort data...')
-  const [whistler, blueMountain] = await Promise.all([
-    scrapeWhistler(),
-    scrapeBlueMountain()
-  ])
-  cache.data = [whistler, blueMountain].filter(Boolean)
+  const [whistler, cypress, grouse, seymour, sunPeaks] = await Promise.all([
+  scrapeWhistler(),
+  scrapeCypress(),
+  scrapeGrouse(),
+  scrapeSeymour(),
+  scrapeSunPeaks()
+])
+cache.data = [whistler, cypress, grouse, seymour, sunPeaks].filter(Boolean)
   cache.lastUpdated = new Date().toISOString()
   console.log('Cache updated at', cache.lastUpdated)
 }
