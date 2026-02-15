@@ -3,8 +3,9 @@ import ResortCard from '../components/ResortCard'
 import Snowfall from '../components/Snowfall'
 
 const SORT_OPTIONS = [
-  { key: 'name', label: 'Name' },
+  { key: 'score', label: 'Best Score' },
   { key: 'snow', label: 'Fresh Snow' },
+  { key: 'name', label: 'Name' },
   { key: 'status', label: 'Open First' },
 ]
 
@@ -16,7 +17,7 @@ export default function Home() {
   const [error, setError] = useState(false)
   const [refreshing, setRefreshing] = useState(false)
   const [search, setSearch] = useState('')
-  const [sortBy, setSortBy] = useState('name')
+  const [sortBy, setSortBy] = useState('score')
   const [lastRefresh, setLastRefresh] = useState(null)
 
   const fetchData = useCallback((isRefresh = false) => {
@@ -47,6 +48,9 @@ export default function Home() {
   )
 
   const sorted = [...filtered].sort((a, b) => {
+    if (sortBy === 'score') {
+      return (b.score ?? 0) - (a.score ?? 0)
+    }
     if (sortBy === 'snow') {
       const aSnow = parseFloat(a.snow?.snowfall24h) || parseFloat(a.snow?.newSnow) || 0
       const bSnow = parseFloat(b.snow?.snowfall24h) || parseFloat(b.snow?.newSnow) || 0
@@ -58,14 +62,18 @@ export default function Home() {
     return (a.name || '').localeCompare(b.name || '')
   })
 
-  const featured = sorted[0]
-  const rest = sorted.slice(1)
+  // Featured = best scored resort (or first if no scores)
+  const bestToday = resorts.find(r => r.isBestToday)
+  const featured = bestToday || sorted[0]
+  const rest = sorted.filter(r => r !== featured)
   const openCount = resorts.filter(r => r.isOpen).length
 
   const bestSnow = resorts.reduce((best, r) => {
     const val = parseFloat(r.snow?.snowfall24h) || parseFloat(r.snow?.newSnow) || 0
     return val > best.val ? { name: r.name, val } : best
   }, { name: '—', val: 0 })
+
+  const topScore = bestToday ? { name: bestToday.name, score: bestToday.score, grade: bestToday.grade } : null
 
   return (
     <div className="app">
