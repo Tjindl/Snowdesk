@@ -316,6 +316,13 @@ export default function Home() {
                 <p className="empty-text">No resorts match "{search}"</p>
               </div>
             )}
+
+            {!loading && !error && (
+              <div className="coming-soon-banner">
+                <span className="coming-soon-icon">🏔️</span>
+                <span className="coming-soon-text">More resorts coming soon — stay tuned!</span>
+              </div>
+            )}
           </>
         )}
       </main>

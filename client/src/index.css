@@ -1078,6 +1078,32 @@ body {
   color: var(--white-muted);
 }
 
+/* ── Coming Soon Banner ── */
+.coming-soon-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  margin: 2rem auto 1rem;
+  padding: 1rem 2rem;
+  border: 1px dashed rgba(255, 255, 255, 0.12);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.02);
+  max-width: 420px;
+}
+
+.coming-soon-icon {
+  font-size: 1.2rem;
+}
+
+.coming-soon-text {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  color: var(--white-muted);
+  text-transform: uppercase;
+}
+
 .retry-btn {
   margin-top: 1.25rem;
   font-family: 'Space Mono', monospace;
