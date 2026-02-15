@@ -1174,8 +1174,8 @@ body {
 /* ── Rank Badge ── */
 .rank-badge {
   position: absolute;
-  top: -8px;
-  left: -8px;
+  top: 12px;
+  left: 12px;
   background: var(--accent);
   color: var(--dark-900);
   font-family: 'Space Mono', monospace;
@@ -1195,8 +1195,8 @@ body {
   width: 28px;
   height: 28px;
   font-size: 0.6rem;
-  top: -6px;
-  left: -6px;
+  top: 10px;
+  left: 10px;
 }
 
 /* ── Best Today Banner ── */
