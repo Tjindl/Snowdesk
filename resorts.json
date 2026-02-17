@@ -3,7 +3,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T11:47:07.565Z",
+      "lastUpdated": "2026-02-17T12:21:33.447Z",
       "snow": {
         "snowfall12h": "17cm",
         "snowOvernight": "2cm",
@@ -164,7 +164,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T11:47:10.653Z",
+      "lastUpdated": "2026-02-17T12:21:35.308Z",
       "snow": {
         "base": "150 cm",
         "snowOvernight": "4 cm",
@@ -318,7 +318,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T11:47:05.970Z",
+      "lastUpdated": "2026-02-17T12:21:30.711Z",
       "snow": {
         "base": "110cm",
         "summit": "160cm",
@@ -362,12 +362,12 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-17T11:47:10.512Z",
+      "lastUpdated": "2026-02-17T12:21:34.302Z",
       "snow": {
         "base": "145cm",
         "summit": "168cm",
         "newSnow": "3cm",
-        "snowfall24h": "8cm",
+        "snowfall24h": "7cm",
         "snowfall48h": "8cm",
         "snowfall7day": "36cm"
       },
@@ -489,12 +489,12 @@
           "label": "Next few hours"
         }
       },
-      "score": 51,
+      "score": 50,
       "grade": "Fair",
       "trend": "falling",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 38,
+          "freshSnow": 36,
           "baseDepth": 77,
           "forecastMomentum": 13,
           "temperature": 100,
@@ -510,7 +510,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-17T11:47:11.569Z",
+      "lastUpdated": "2026-02-17T12:21:36.784Z",
       "snow": {
         "base": "209cm",
         "snowfall12h": "0cm",
@@ -656,6 +656,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-17T11:47:12.319Z",
+  "lastUpdated": "2026-02-17T12:21:37.577Z",
   "count": 5
 }
