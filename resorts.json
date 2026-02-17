@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T17:52:40.940Z",
+      "lastUpdated": "2026-02-17T18:26:17.280Z",
       "snow": {
         "base": "162 cm",
         "snowOvernight": "15 cm",
@@ -163,7 +163,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T17:52:37.687Z",
+      "lastUpdated": "2026-02-17T18:26:13.633Z",
       "snow": {
         "snowfall12h": "4cm",
         "snowOvernight": "3cm",
@@ -177,7 +177,7 @@
         "open": "3 / 8"
       },
       "trails": {
-        "open": "14 / 34"
+        "open": "15 / 34"
       },
       "isOpen": true,
       "forecast": {
@@ -307,7 +307,7 @@
           "forecastMomentum": 44,
           "temperature": 95,
           "wind": 82,
-          "operations": 43,
+          "operations": 44,
           "powderProb": 10
         },
         "bonuses": [
@@ -324,7 +324,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T17:52:35.828Z",
+      "lastUpdated": "2026-02-17T18:26:08.813Z",
       "snow": {
         "base": "120cm",
         "summit": "160cm",
@@ -368,7 +368,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-17T17:52:40.641Z",
+      "lastUpdated": "2026-02-17T18:26:16.629Z",
       "snow": {
         "base": "211cm",
         "snowfall12h": "5cm",
@@ -516,12 +516,12 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-17T17:52:39.719Z",
+      "lastUpdated": "2026-02-17T18:26:15.119Z",
       "snow": {
         "base": "145cm",
         "summit": "168cm",
         "newSnow": "3cm",
-        "snowfall24h": "5cm",
+        "snowfall24h": "4cm",
         "snowfall48h": "8cm",
         "snowfall7day": "36cm"
       },
@@ -643,12 +643,12 @@
           "label": "Next few hours"
         }
       },
-      "score": 50,
+      "score": 49,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 33,
+          "freshSnow": 32,
           "baseDepth": 77,
           "forecastMomentum": 13,
           "temperature": 100,
@@ -662,6 +662,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-17T17:52:41.560Z",
+  "lastUpdated": "2026-02-17T18:26:18.152Z",
   "count": 5
 }
