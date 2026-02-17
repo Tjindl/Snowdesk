@@ -3,7 +3,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T08:49:16.278Z",
+      "lastUpdated": "2026-02-17T09:23:25.973Z",
       "snow": {
         "snowfall12h": "17cm",
         "snowOvernight": "2cm",
@@ -164,7 +164,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T08:49:19.735Z",
+      "lastUpdated": "2026-02-17T09:23:30.206Z",
       "snow": {
         "base": "150 cm",
         "snowOvernight": "4 cm",
@@ -318,7 +318,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T08:49:13.582Z",
+      "lastUpdated": "2026-02-17T09:23:21.653Z",
       "snow": {
         "base": "110cm",
         "summit": "160cm",
@@ -362,7 +362,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-17T08:49:22.157Z",
+      "lastUpdated": "2026-02-17T09:23:30.241Z",
       "snow": {
         "base": "209cm",
         "snowfall12h": "0cm",
@@ -510,10 +510,10 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-17T08:49:18.235Z",
+      "lastUpdated": "2026-02-17T09:23:28.539Z",
       "snow": {
         "base": "146cm",
-        "summit": "169cm",
+        "summit": "168cm",
         "newSnow": "3cm",
         "snowfall24h": "8cm",
         "snowfall48h": "8cm",
@@ -631,7 +631,7 @@
           "avg": 9.7,
           "max": 17.8
         },
-        "precipProbability": 2,
+        "precipProbability": 1,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -648,7 +648,7 @@
           "temperature": 100,
           "wind": 78,
           "operations": 50,
-          "powderProb": 2
+          "powderProb": 1
         },
         "bonuses": []
       },
@@ -656,6 +656,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-17T08:49:22.885Z",
+  "lastUpdated": "2026-02-17T09:23:31.028Z",
   "count": 5
 }
