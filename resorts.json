@@ -3,7 +3,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T07:27:04.232Z",
+      "lastUpdated": "2026-02-17T07:51:35.000Z",
       "snow": {
         "snowfall12h": "17cm",
         "snowOvernight": "2cm",
@@ -131,13 +131,13 @@
           "avg": 9.3,
           "max": 18.2
         },
-        "precipProbability": 33,
+        "precipProbability": 32,
         "peakWindow": {
           "startsIn": 16,
           "label": "This afternoon"
         }
       },
-      "score": 61,
+      "score": 60,
       "grade": "Good",
       "trend": "steady",
       "scoreMeta": {
@@ -148,7 +148,7 @@
           "temperature": 95,
           "wind": 78,
           "operations": 0,
-          "powderProb": 33
+          "powderProb": 32
         },
         "bonuses": [
           {
@@ -164,7 +164,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T07:27:01.535Z",
+      "lastUpdated": "2026-02-17T07:51:29.293Z",
       "snow": {
         "base": "110cm",
         "summit": "160cm",
@@ -208,7 +208,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T07:27:06.528Z",
+      "lastUpdated": "2026-02-17T07:51:36.916Z",
       "snow": {
         "base": "150 cm",
         "snowOvernight": "4 cm",
@@ -362,7 +362,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-17T07:27:06.352Z",
+      "lastUpdated": "2026-02-17T07:51:36.820Z",
       "snow": {
         "base": "209cm",
         "snowfall12h": "0cm",
@@ -510,10 +510,10 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-17T07:27:05.428Z",
+      "lastUpdated": "2026-02-17T07:51:36.390Z",
       "snow": {
         "base": "146cm",
-        "summit": "169cm",
+        "summit": "168cm",
         "newSnow": "3cm",
         "snowfall24h": "8cm",
         "snowfall48h": "8cm",
@@ -656,6 +656,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-17T07:27:07.119Z",
+  "lastUpdated": "2026-02-17T07:51:37.938Z",
   "count": 5
 }
