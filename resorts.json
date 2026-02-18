@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-18T06:31:00.003Z",
+      "lastUpdated": "2026-02-18T07:27:12.519Z",
       "snow": {
         "base": "162 cm",
         "snowOvernight": "15 cm",
@@ -163,7 +163,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-18T06:30:55.783Z",
+      "lastUpdated": "2026-02-18T07:27:07.235Z",
       "snow": {
         "base": "120cm",
         "summit": "160cm",
@@ -207,7 +207,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-18T06:30:57.854Z",
+      "lastUpdated": "2026-02-18T07:27:08.829Z",
       "snow": {
         "snowfall12h": "3cm",
         "snowOvernight": "3cm",
@@ -362,7 +362,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-18T06:31:00.507Z",
+      "lastUpdated": "2026-02-18T07:27:11.094Z",
       "snow": {
         "base": "210cm",
         "snowfall12h": "0cm",
@@ -475,12 +475,12 @@
           }
         ],
         "temperature": {
-          "avg": -3.8,
-          "min": -9.7,
+          "avg": -3.7,
+          "min": -8.7,
           "max": -0.3
         },
         "wind": {
-          "avg": 13.2,
+          "avg": 13.3,
           "max": 20.6
         },
         "precipProbability": 5,
@@ -497,8 +497,8 @@
           "freshSnow": 31,
           "baseDepth": 87,
           "forecastMomentum": 13,
-          "temperature": 92,
-          "wind": 73,
+          "temperature": 91,
+          "wind": 72,
           "operations": 50,
           "powderProb": 5
         },
@@ -510,7 +510,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-18T06:30:59.419Z",
+      "lastUpdated": "2026-02-18T07:27:11.363Z",
       "snow": {
         "base": "143cm",
         "summit": "167cm",
@@ -624,11 +624,11 @@
         ],
         "temperature": {
           "avg": -7.3,
-          "min": -13.5,
+          "min": -13,
           "max": -3.8
         },
         "wind": {
-          "avg": 26.9,
+          "avg": 26.8,
           "max": 59.8
         },
         "precipProbability": 2,
@@ -656,6 +656,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-18T06:31:01.168Z",
+  "lastUpdated": "2026-02-18T07:27:13.222Z",
   "count": 5
 }
