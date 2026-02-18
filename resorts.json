@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T23:43:42.559Z",
+      "lastUpdated": "2026-02-18T00:42:00.414Z",
       "snow": {
         "base": "162 cm",
         "snowOvernight": "15 cm",
@@ -127,7 +127,7 @@
           "max": -0.6
         },
         "wind": {
-          "avg": 11.7,
+          "avg": 12.7,
           "max": 20.6
         },
         "precipProbability": 8,
@@ -145,7 +145,7 @@
           "baseDepth": 80,
           "forecastMomentum": 13,
           "temperature": 89,
-          "wind": 74,
+          "wind": 73,
           "operations": 49,
           "powderProb": 8
         },
@@ -163,7 +163,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T23:43:40.608Z",
+      "lastUpdated": "2026-02-18T00:41:56.801Z",
       "snow": {
         "snowfall12h": "3cm",
         "snowOvernight": "3cm",
@@ -288,8 +288,8 @@
           "max": -2
         },
         "wind": {
-          "avg": 8.5,
-          "max": 12.6
+          "avg": 9,
+          "max": 13.1
         },
         "precipProbability": 9,
         "peakWindow": {
@@ -306,7 +306,7 @@
           "baseDepth": 58,
           "forecastMomentum": 43,
           "temperature": 97,
-          "wind": 83,
+          "wind": 82,
           "operations": 44,
           "powderProb": 9
         },
@@ -324,7 +324,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-17T23:43:34.339Z",
+      "lastUpdated": "2026-02-18T00:41:52.327Z",
       "snow": {
         "base": "120cm",
         "summit": "160cm",
@@ -368,10 +368,10 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-17T23:43:43.491Z",
+      "lastUpdated": "2026-02-18T00:42:00.596Z",
       "snow": {
         "base": "210cm",
-        "snowfall12h": "5cm",
+        "snowfall12h": "0cm",
         "snowfall24h": "5cm",
         "snowfall48h": "8cm",
         "snowfall7day": "25cm",
@@ -482,11 +482,11 @@
         ],
         "temperature": {
           "avg": -3.5,
-          "min": -6.8,
+          "min": -6.4,
           "max": -0.3
         },
         "wind": {
-          "avg": 12.7,
+          "avg": 12.9,
           "max": 20.6
         },
         "precipProbability": 5,
@@ -495,12 +495,12 @@
           "label": "Next few hours"
         }
       },
-      "score": 52,
+      "score": 49,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 42,
+          "freshSnow": 31,
           "baseDepth": 87,
           "forecastMomentum": 13,
           "temperature": 90,
@@ -516,10 +516,10 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-17T23:43:40.555Z",
+      "lastUpdated": "2026-02-18T00:41:57.616Z",
       "snow": {
         "base": "144cm",
-        "summit": "167cm",
+        "summit": "166cm",
         "newSnow": "0cm",
         "snowfall24h": "3cm",
         "snowfall48h": "8cm",
@@ -629,13 +629,13 @@
           }
         ],
         "temperature": {
-          "avg": -7.7,
-          "min": -14.8,
+          "avg": -7.6,
+          "min": -14.6,
           "max": -3.8
         },
         "wind": {
-          "avg": 17.8,
-          "max": 42.9
+          "avg": 20.1,
+          "max": 60.2
         },
         "precipProbability": 2,
         "peakWindow": {
@@ -643,7 +643,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 47,
+      "score": 46,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
@@ -652,7 +652,7 @@
           "baseDepth": 77,
           "forecastMomentum": 13,
           "temperature": 100,
-          "wind": 53,
+          "wind": 39,
           "operations": 50,
           "powderProb": 2
         },
@@ -662,6 +662,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-17T23:43:44.467Z",
+  "lastUpdated": "2026-02-18T00:42:01.320Z",
   "count": 5
 }
