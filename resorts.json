@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T06:29:56.055Z",
+      "lastUpdated": "2026-02-19T06:56:32.026Z",
       "snow": {
         "base": "165 cm",
         "snowOvernight": "5 cm",
@@ -128,7 +128,7 @@
         },
         "wind": {
           "avg": 6,
-          "max": 9.8
+          "max": 10.1
         },
         "precipProbability": 5,
         "peakWindow": {
@@ -157,7 +157,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T06:29:52.172Z",
+      "lastUpdated": "2026-02-19T06:56:24.343Z",
       "snow": {
         "base": "105cm",
         "summit": "179cm",
@@ -195,7 +195,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-19T06:29:56.866Z",
+      "lastUpdated": "2026-02-19T06:56:33.308Z",
       "snow": {
         "base": "212cm",
         "snowfall12h": "3cm",
@@ -313,7 +313,7 @@
           "max": -4.7
         },
         "wind": {
-          "avg": 14.5,
+          "avg": 14.7,
           "max": 20.9
         },
         "precipProbability": 2,
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T06:29:52.337Z",
+      "lastUpdated": "2026-02-19T06:56:29.217Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -468,7 +468,7 @@
           "max": -3.9
         },
         "wind": {
-          "avg": 5,
+          "avg": 5.1,
           "max": 9.9
         },
         "precipProbability": 4,
@@ -498,10 +498,10 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-19T06:29:53.762Z",
+      "lastUpdated": "2026-02-19T06:56:29.875Z",
       "snow": {
         "base": "141cm",
-        "summit": "166cm",
+        "summit": "165cm",
         "newSnow": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "0cm",
@@ -616,7 +616,7 @@
           "max": -10.6
         },
         "wind": {
-          "avg": 19.9,
+          "avg": 20.3,
           "max": 34.6
         },
         "precipProbability": 1,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-19T06:29:57.621Z",
+  "lastUpdated": "2026-02-19T06:56:34.101Z",
   "count": 5
 }
