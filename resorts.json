@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T10:21:53.313Z",
+      "lastUpdated": "2026-02-19T10:48:45.108Z",
       "snow": {
         "base": "165 cm",
         "snowOvernight": "5 cm",
@@ -122,12 +122,12 @@
           }
         ],
         "temperature": {
-          "avg": -5.9,
+          "avg": -6,
           "min": -8.1,
-          "max": -4.1
+          "max": -4
         },
         "wind": {
-          "avg": 6.8,
+          "avg": 6.2,
           "max": 12.9
         },
         "precipProbability": 0,
@@ -145,7 +145,7 @@
           "baseDepth": 80,
           "forecastMomentum": 13,
           "temperature": 99,
-          "wind": 84,
+          "wind": 85,
           "operations": 49,
           "powderProb": 0
         },
@@ -157,7 +157,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T10:21:47.215Z",
+      "lastUpdated": "2026-02-19T10:48:38.785Z",
       "snow": {
         "base": "105cm",
         "summit": "179cm",
@@ -195,7 +195,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-19T10:21:54.045Z",
+      "lastUpdated": "2026-02-19T10:48:45.298Z",
       "snow": {
         "base": "212cm",
         "snowfall12h": "3cm",
@@ -308,12 +308,12 @@
           }
         ],
         "temperature": {
-          "avg": -8.8,
+          "avg": -8.5,
           "min": -11.3,
-          "max": -4.4
+          "max": -4
         },
         "wind": {
-          "avg": 13.8,
+          "avg": 13.5,
           "max": 16.8
         },
         "precipProbability": 1,
@@ -330,7 +330,7 @@
           "freshSnow": 35,
           "baseDepth": 87,
           "forecastMomentum": 13,
-          "temperature": 97,
+          "temperature": 98,
           "wind": 75,
           "operations": 50,
           "powderProb": 1
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T10:21:49.212Z",
+      "lastUpdated": "2026-02-19T10:48:39.336Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -463,13 +463,13 @@
           }
         ],
         "temperature": {
-          "avg": -7.8,
+          "avg": -7.9,
           "min": -10.7,
-          "max": -5.1
+          "max": -5.2
         },
         "wind": {
-          "avg": 6,
-          "max": 13.6
+          "avg": 4.3,
+          "max": 13.2
         },
         "precipProbability": 0,
         "peakWindow": {
@@ -477,7 +477,7 @@
           "label": "Day after tomorrow"
         }
       },
-      "score": 41,
+      "score": 43,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
@@ -486,11 +486,17 @@
           "baseDepth": 58,
           "forecastMomentum": 13,
           "temperature": 99,
-          "wind": 85,
+          "wind": 87,
           "operations": 0,
           "powderProb": 0
         },
-        "bonuses": []
+        "bonuses": [
+          {
+            "label": "Bluebird Day",
+            "points": 2,
+            "icon": "☀️"
+          }
+        ]
       },
       "rank": 4,
       "isBestToday": false
@@ -498,7 +504,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-19T10:21:50.495Z",
+      "lastUpdated": "2026-02-19T10:48:43.679Z",
       "snow": {
         "base": "141cm",
         "summit": "166cm",
@@ -611,13 +617,13 @@
           }
         ],
         "temperature": {
-          "avg": -17.1,
-          "min": -19.9,
+          "avg": -16.8,
+          "min": -19.4,
           "max": -12.7
         },
         "wind": {
-          "avg": 10.3,
-          "max": 29.9
+          "avg": 11,
+          "max": 29.2
         },
         "precipProbability": 2,
         "peakWindow": {
@@ -644,6 +650,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-19T10:21:54.826Z",
+  "lastUpdated": "2026-02-19T10:48:46.015Z",
   "count": 5
 }
