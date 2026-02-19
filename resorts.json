@@ -3,7 +3,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-19T22:46:03.151Z",
+      "lastUpdated": "2026-02-19T23:13:40.210Z",
       "snow": {
         "base": "214cm",
         "snowfall12h": "3cm",
@@ -151,14 +151,14 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T22:46:01.860Z",
+      "lastUpdated": "2026-02-19T23:13:40.528Z",
       "snow": {
         "base": "165 cm",
         "snowOvernight": "1 cm",
-        "snowfall24h": "2 cm",
-        "snowfall48h": "7 cm",
-        "snowfall7day": "45 cm",
-        "seasonTotal": "370 cm"
+        "snowfall24h": "3 cm",
+        "snowfall48h": "10 cm",
+        "snowfall7day": "47 cm",
+        "seasonTotal": "372 cm"
       },
       "lifts": {
         "open": "4 / 6"
@@ -284,12 +284,12 @@
           "label": "This morning"
         }
       },
-      "score": 49,
+      "score": 50,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 33,
+          "freshSnow": 37,
           "baseDepth": 80,
           "forecastMomentum": 0,
           "temperature": 99,
@@ -305,7 +305,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T22:45:58.183Z",
+      "lastUpdated": "2026-02-19T23:13:35.895Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -460,7 +460,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T22:45:53.747Z",
+      "lastUpdated": "2026-02-19T23:13:33.083Z",
       "snow": {
         "base": "105cm",
         "summit": "176cm",
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-19T22:46:00.314Z",
+      "lastUpdated": "2026-02-19T23:13:37.816Z",
       "snow": {
         "base": "141cm",
         "summit": "166cm",
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-19T22:46:03.828Z",
+  "lastUpdated": "2026-02-19T23:13:41.484Z",
   "count": 5
 }
