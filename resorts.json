@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T05:51:32.697Z",
+      "lastUpdated": "2026-02-19T06:29:56.055Z",
       "snow": {
         "base": "165 cm",
         "snowOvernight": "5 cm",
@@ -122,8 +122,8 @@
           }
         ],
         "temperature": {
-          "avg": -4.2,
-          "min": -6.8,
+          "avg": -4.3,
+          "min": -7.2,
           "max": -2.6
         },
         "wind": {
@@ -157,7 +157,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T05:51:27.123Z",
+      "lastUpdated": "2026-02-19T06:29:52.172Z",
       "snow": {
         "base": "105cm",
         "summit": "179cm",
@@ -195,7 +195,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-19T05:51:33.037Z",
+      "lastUpdated": "2026-02-19T06:29:56.866Z",
       "snow": {
         "base": "212cm",
         "snowfall12h": "3cm",
@@ -309,7 +309,7 @@
         ],
         "temperature": {
           "avg": -7.8,
-          "min": -12,
+          "min": -11.8,
           "max": -4.7
         },
         "wind": {
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-19T05:51:29.439Z",
+      "lastUpdated": "2026-02-19T06:29:52.337Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -464,7 +464,7 @@
         ],
         "temperature": {
           "avg": -6.4,
-          "min": -8.1,
+          "min": -8.6,
           "max": -3.9
         },
         "wind": {
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-19T05:51:30.743Z",
+      "lastUpdated": "2026-02-19T06:29:53.762Z",
       "snow": {
         "base": "141cm",
         "summit": "166cm",
@@ -612,7 +612,7 @@
         ],
         "temperature": {
           "avg": -13.7,
-          "min": -18.8,
+          "min": -18.2,
           "max": -10.6
         },
         "wind": {
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-19T05:51:33.886Z",
+  "lastUpdated": "2026-02-19T06:29:57.621Z",
   "count": 5
 }
