@@ -1,9 +1,163 @@
 {
   "resorts": [
     {
+      "name": "Cypress Mountain",
+      "location": "North Vancouver, BC",
+      "lastUpdated": "2026-02-20T09:48:28.178Z",
+      "snow": {
+        "base": "165 cm",
+        "snowOvernight": "1 cm",
+        "snowfall24h": "3 cm",
+        "snowfall48h": "10 cm",
+        "snowfall7day": "47 cm",
+        "seasonTotal": "372 cm"
+      },
+      "lifts": {
+        "open": "0 / 6"
+      },
+      "trails": {
+        "open": "20 / 61"
+      },
+      "isOpen": true,
+      "forecast": {
+        "snowfall24h": 0.8,
+        "snowfall48h": 6.5,
+        "snowfall72h": 6.5,
+        "hourlySnow": [
+          {
+            "hour": 0,
+            "cm": 0
+          },
+          {
+            "hour": 1,
+            "cm": 0
+          },
+          {
+            "hour": 2,
+            "cm": 0
+          },
+          {
+            "hour": 3,
+            "cm": 0
+          },
+          {
+            "hour": 4,
+            "cm": 0
+          },
+          {
+            "hour": 5,
+            "cm": 0
+          },
+          {
+            "hour": 6,
+            "cm": 0
+          },
+          {
+            "hour": 7,
+            "cm": 0
+          },
+          {
+            "hour": 8,
+            "cm": 0
+          },
+          {
+            "hour": 9,
+            "cm": 0
+          },
+          {
+            "hour": 10,
+            "cm": 0
+          },
+          {
+            "hour": 11,
+            "cm": 0
+          },
+          {
+            "hour": 12,
+            "cm": 0
+          },
+          {
+            "hour": 13,
+            "cm": 0
+          },
+          {
+            "hour": 14,
+            "cm": 0
+          },
+          {
+            "hour": 15,
+            "cm": 0
+          },
+          {
+            "hour": 16,
+            "cm": 0
+          },
+          {
+            "hour": 17,
+            "cm": 0
+          },
+          {
+            "hour": 18,
+            "cm": 0
+          },
+          {
+            "hour": 19,
+            "cm": 0
+          },
+          {
+            "hour": 20,
+            "cm": 0.21
+          },
+          {
+            "hour": 21,
+            "cm": 0.21
+          },
+          {
+            "hour": 22,
+            "cm": 0.21
+          },
+          {
+            "hour": 23,
+            "cm": 0.21
+          }
+        ],
+        "temperature": {
+          "avg": -5.3,
+          "min": -8.3,
+          "max": -2.4
+        },
+        "wind": {
+          "avg": 11.1,
+          "max": 17.8
+        },
+        "precipProbability": 5,
+        "peakWindow": {
+          "startsIn": 41,
+          "label": "Day after tomorrow"
+        }
+      },
+      "score": 58,
+      "grade": "Good",
+      "trend": "steady",
+      "scoreMeta": {
+        "factors": {
+          "freshSnow": 37,
+          "baseDepth": 80,
+          "forecastMomentum": 56,
+          "temperature": 98,
+          "wind": 77,
+          "operations": 28,
+          "powderProb": 5
+        },
+        "bonuses": []
+      },
+      "rank": 1,
+      "isBestToday": true
+    },
+    {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-20T09:20:15.208Z",
+      "lastUpdated": "2026-02-20T09:48:29.349Z",
       "snow": {
         "base": "212cm",
         "snowfall12h": "0cm",
@@ -116,15 +270,15 @@
           }
         ],
         "temperature": {
-          "avg": -6,
-          "min": -9.7,
-          "max": -1.4
+          "avg": -5.8,
+          "min": -9.3,
+          "max": -0.8
         },
         "wind": {
-          "avg": 5.9,
-          "max": 10
+          "avg": 5,
+          "max": 9.7
         },
-        "precipProbability": 2,
+        "precipProbability": 3,
         "peakWindow": {
           "startsIn": 39,
           "label": "Day after tomorrow"
@@ -139,19 +293,19 @@
           "baseDepth": 87,
           "forecastMomentum": 14,
           "temperature": 99,
-          "wind": 87,
+          "wind": 88,
           "operations": 50,
-          "powderProb": 2
+          "powderProb": 3
         },
         "bonuses": []
       },
-      "rank": 1,
-      "isBestToday": true
+      "rank": 2,
+      "isBestToday": false
     },
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T09:20:11.246Z",
+      "lastUpdated": "2026-02-20T09:48:25.482Z",
       "snow": {
         "snowfall12h": "2cm",
         "snowOvernight": "0cm",
@@ -169,9 +323,9 @@
       },
       "isOpen": false,
       "forecast": {
-        "snowfall24h": 0.8,
-        "snowfall48h": 5.4,
-        "snowfall72h": 5.4,
+        "snowfall24h": 0.6,
+        "snowfall48h": 5.1,
+        "snowfall72h": 5.1,
         "hourlySnow": [
           {
             "hour": 0,
@@ -247,7 +401,7 @@
           },
           {
             "hour": 18,
-            "cm": 0.21
+            "cm": 0
           },
           {
             "hour": 19,
@@ -271,15 +425,15 @@
           }
         ],
         "temperature": {
-          "avg": -7,
+          "avg": -6.8,
           "min": -10.6,
           "max": -3.4
         },
         "wind": {
-          "avg": 6.9,
+          "avg": 6.8,
           "max": 12
         },
-        "precipProbability": 4,
+        "precipProbability": 5,
         "peakWindow": {
           "startsIn": 41,
           "label": "Day after tomorrow"
@@ -296,17 +450,17 @@
           "temperature": 100,
           "wind": 85,
           "operations": 0,
-          "powderProb": 4
+          "powderProb": 5
         },
         "bonuses": []
       },
-      "rank": 2,
+      "rank": 3,
       "isBestToday": false
     },
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-20T09:20:14.343Z",
+      "lastUpdated": "2026-02-20T09:48:28.127Z",
       "snow": {
         "base": "140cm",
         "summit": "165cm",
@@ -419,13 +573,13 @@
           }
         ],
         "temperature": {
-          "avg": -12,
-          "min": -18.5,
-          "max": -6.2
+          "avg": -11.9,
+          "min": -17.3,
+          "max": -6
         },
         "wind": {
-          "avg": 4.4,
-          "max": 11.6
+          "avg": 4.8,
+          "max": 10.2
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -433,7 +587,7 @@
           "label": "Day after tomorrow"
         }
       },
-      "score": 47,
+      "score": 48,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
@@ -441,7 +595,7 @@
           "freshSnow": 22,
           "baseDepth": 76,
           "forecastMomentum": 13,
-          "temperature": 80,
+          "temperature": 81,
           "wind": 88,
           "operations": 50,
           "powderProb": 1
@@ -454,51 +608,13 @@
           }
         ]
       },
-      "rank": 3,
-      "isBestToday": false
-    },
-    {
-      "name": "Cypress Mountain",
-      "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T09:20:15.366Z",
-      "snow": {
-        "base": "165 cm",
-        "snowOvernight": "1 cm",
-        "snowfall24h": "3 cm",
-        "snowfall48h": "10 cm",
-        "snowfall7day": "47 cm",
-        "seasonTotal": "372 cm"
-      },
-      "lifts": {
-        "open": "0 / 6"
-      },
-      "trails": {
-        "open": "20 / 61"
-      },
-      "isOpen": true,
-      "forecast": null,
-      "score": 46,
-      "grade": "Fair",
-      "trend": "steady",
-      "scoreMeta": {
-        "factors": {
-          "freshSnow": 37,
-          "baseDepth": 80,
-          "forecastMomentum": 30,
-          "temperature": 50,
-          "wind": 70,
-          "operations": 28,
-          "powderProb": 30
-        },
-        "bonuses": []
-      },
       "rank": 4,
       "isBestToday": false
     },
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T09:20:07.079Z",
+      "lastUpdated": "2026-02-20T09:48:20.099Z",
       "snow": {
         "base": "105cm",
         "summit": "176cm",
@@ -534,6 +650,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-20T09:20:16.273Z",
+  "lastUpdated": "2026-02-20T09:48:30.023Z",
   "count": 5
 }
