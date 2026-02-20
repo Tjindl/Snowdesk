@@ -3,7 +3,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-20T05:50:25.275Z",
+      "lastUpdated": "2026-02-20T06:26:44.721Z",
       "snow": {
         "base": "212cm",
         "snowfall12h": "0cm",
@@ -151,7 +151,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T05:50:25.884Z",
+      "lastUpdated": "2026-02-20T06:26:44.407Z",
       "snow": {
         "base": "165 cm",
         "snowOvernight": "1 cm",
@@ -161,7 +161,7 @@
         "seasonTotal": "372 cm"
       },
       "lifts": {
-        "open": "3 / 6"
+        "open": "0 / 6"
       },
       "trails": {
         "open": "20 / 61"
@@ -284,7 +284,7 @@
           "label": "Day after tomorrow"
         }
       },
-      "score": 49,
+      "score": 47,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
@@ -294,7 +294,7 @@
           "forecastMomentum": 0,
           "temperature": 99,
           "wind": 87,
-          "operations": 44,
+          "operations": 28,
           "powderProb": 0
         },
         "bonuses": []
@@ -305,7 +305,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T05:50:18.097Z",
+      "lastUpdated": "2026-02-20T06:26:40.964Z",
       "snow": {
         "base": "105cm",
         "summit": "176cm",
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T05:50:22.688Z",
+      "lastUpdated": "2026-02-20T06:26:40.531Z",
       "snow": {
         "snowfall12h": "2cm",
         "snowOvernight": "0cm",
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-20T05:50:24.665Z",
+      "lastUpdated": "2026-02-20T06:26:43.938Z",
       "snow": {
         "base": "140cm",
         "summit": "166cm",
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-20T05:50:26.557Z",
+  "lastUpdated": "2026-02-20T06:26:45.414Z",
   "count": 5
 }
