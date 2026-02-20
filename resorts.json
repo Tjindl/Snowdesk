@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T20:45:59.560Z",
+      "lastUpdated": "2026-02-20T21:09:26.677Z",
       "snow": {
         "base": "165 cm",
         "snowOvernight": "0 cm",
@@ -21,8 +21,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0,
-        "snowfall48h": 9.9,
-        "snowfall72h": 11.2,
+        "snowfall48h": 14.9,
+        "snowfall72h": 17.1,
         "hourlySnow": [
           {
             "hour": 0,
@@ -136,14 +136,14 @@
           "label": "Day after tomorrow"
         }
       },
-      "score": 53,
-      "grade": "Fair",
+      "score": 56,
+      "grade": "Good",
       "trend": "steady",
       "scoreMeta": {
         "factors": {
           "freshSnow": 26,
           "baseDepth": 80,
-          "forecastMomentum": 35,
+          "forecastMomentum": 47,
           "temperature": 99,
           "wind": 78,
           "operations": 52,
@@ -157,7 +157,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T20:45:55.708Z",
+      "lastUpdated": "2026-02-20T21:09:23.493Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -176,8 +176,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0,
-        "snowfall48h": 7.7,
-        "snowfall72h": 8.1,
+        "snowfall48h": 11.8,
+        "snowfall72h": 12.7,
         "hourlySnow": [
           {
             "hour": 0,
@@ -291,14 +291,14 @@
           "label": "Day after tomorrow"
         }
       },
-      "score": 51,
+      "score": 53,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
         "factors": {
           "freshSnow": 24,
           "baseDepth": 70,
-          "forecastMomentum": 29,
+          "forecastMomentum": 40,
           "temperature": 100,
           "wind": 85,
           "operations": 49,
@@ -312,7 +312,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-20T20:45:58.832Z",
+      "lastUpdated": "2026-02-20T21:09:26.752Z",
       "snow": {
         "base": "212cm",
         "snowfall12h": "0cm",
@@ -324,8 +324,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0,
-        "snowfall48h": 1.3,
-        "snowfall72h": 17.1,
+        "snowfall48h": 1.7,
+        "snowfall72h": 18.2,
         "hourlySnow": [
           {
             "hour": 0,
@@ -439,14 +439,14 @@
           "label": "Day after tomorrow"
         }
       },
-      "score": 50,
+      "score": 51,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
         "factors": {
           "freshSnow": 23,
           "baseDepth": 87,
-          "forecastMomentum": 15,
+          "forecastMomentum": 16,
           "temperature": 99,
           "wind": 87,
           "operations": 50,
@@ -460,7 +460,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T20:45:51.870Z",
+      "lastUpdated": "2026-02-20T21:09:20.171Z",
       "snow": {
         "base": "105cm",
         "summit": "175cm",
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-20T20:45:57.247Z",
+      "lastUpdated": "2026-02-20T21:09:25.113Z",
       "snow": {
         "base": "140cm",
         "summit": "164cm",
@@ -510,8 +510,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0,
-        "snowfall48h": 1.3,
-        "snowfall72h": 3.1,
+        "snowfall48h": 0.4,
+        "snowfall72h": 2.1,
         "hourlySnow": [
           {
             "hour": 0,
@@ -632,7 +632,7 @@
         "factors": {
           "freshSnow": 22,
           "baseDepth": 76,
-          "forecastMomentum": 15,
+          "forecastMomentum": 13,
           "temperature": 83,
           "wind": 75,
           "operations": 50,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-20T20:46:00.448Z",
+  "lastUpdated": "2026-02-20T21:09:27.785Z",
   "count": 5
 }
