@@ -3,7 +3,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-20T05:04:01.050Z",
+      "lastUpdated": "2026-02-20T05:50:25.275Z",
       "snow": {
         "base": "212cm",
         "snowfall12h": "0cm",
@@ -15,8 +15,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0,
-        "snowfall48h": 0.4,
-        "snowfall72h": 0.8,
+        "snowfall48h": 0.2,
+        "snowfall72h": 0.7,
         "hourlySnow": [
           {
             "hour": 0,
@@ -116,17 +116,17 @@
           }
         ],
         "temperature": {
-          "avg": -9,
+          "avg": -8.9,
           "min": -11.9,
           "max": -5.3
         },
         "wind": {
-          "avg": 15.4,
+          "avg": 15.6,
           "max": 19.7
         },
         "precipProbability": 1,
         "peakWindow": {
-          "startsIn": 38,
+          "startsIn": 39,
           "label": "Day after tomorrow"
         }
       },
@@ -151,7 +151,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T05:04:00.930Z",
+      "lastUpdated": "2026-02-20T05:50:25.884Z",
       "snow": {
         "base": "165 cm",
         "snowOvernight": "1 cm",
@@ -170,7 +170,7 @@
       "forecast": {
         "snowfall24h": 0.1,
         "snowfall48h": 2.3,
-        "snowfall72h": 4.3,
+        "snowfall72h": 4.4,
         "hourlySnow": [
           {
             "hour": 0,
@@ -275,7 +275,7 @@
           "max": -3.6
         },
         "wind": {
-          "avg": 5.8,
+          "avg": 6,
           "max": 10.2
         },
         "precipProbability": 0,
@@ -305,7 +305,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T05:03:56.402Z",
+      "lastUpdated": "2026-02-20T05:50:18.097Z",
       "snow": {
         "base": "105cm",
         "summit": "176cm",
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-20T05:03:58.031Z",
+      "lastUpdated": "2026-02-20T05:50:22.688Z",
       "snow": {
         "snowfall12h": "2cm",
         "snowOvernight": "0cm",
@@ -363,7 +363,7 @@
       "forecast": {
         "snowfall24h": 0,
         "snowfall48h": 1.5,
-        "snowfall72h": 3.4,
+        "snowfall72h": 3.6,
         "hourlySnow": [
           {
             "hour": 0,
@@ -464,11 +464,11 @@
         ],
         "temperature": {
           "avg": -7.8,
-          "min": -10.4,
+          "min": -9.9,
           "max": -4.8
         },
         "wind": {
-          "avg": 5.2,
+          "avg": 5.5,
           "max": 10.4
         },
         "precipProbability": 0,
@@ -486,7 +486,7 @@
           "baseDepth": 70,
           "forecastMomentum": 15,
           "temperature": 99,
-          "wind": 88,
+          "wind": 87,
           "operations": 0,
           "powderProb": 0
         },
@@ -498,10 +498,10 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-20T05:03:59.728Z",
+      "lastUpdated": "2026-02-20T05:50:24.665Z",
       "snow": {
-        "base": "141cm",
-        "summit": "165cm",
+        "base": "140cm",
+        "summit": "166cm",
         "newSnow": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "0cm",
@@ -611,12 +611,12 @@
           }
         ],
         "temperature": {
-          "avg": -16.6,
+          "avg": -16.5,
           "min": -18.9,
           "max": -13.1
         },
         "wind": {
-          "avg": 10.9,
+          "avg": 11.7,
           "max": 24.6
         },
         "precipProbability": 2,
@@ -634,7 +634,7 @@
           "baseDepth": 76,
           "forecastMomentum": 13,
           "temperature": 30,
-          "wind": 72,
+          "wind": 71,
           "operations": 50,
           "powderProb": 2
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-20T05:04:01.733Z",
+  "lastUpdated": "2026-02-20T05:50:26.557Z",
   "count": 5
 }
