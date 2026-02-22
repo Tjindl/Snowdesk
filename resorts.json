@@ -3,14 +3,14 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-22T15:42:01.004Z",
+      "lastUpdated": "2026-02-22T16:11:02.308Z",
       "snow": {
-        "base": "183 cm",
-        "snowOvernight": "15 cm",
-        "snowfall24h": "19 cm",
-        "snowfall48h": "21 cm",
-        "snowfall7day": "50 cm",
-        "seasonTotal": "392 cm"
+        "base": "182 cm",
+        "snowOvernight": "14 cm",
+        "snowfall24h": "18 cm",
+        "snowfall48h": "20 cm",
+        "snowfall7day": "49 cm",
+        "seasonTotal": "391 cm"
       },
       "lifts": {
         "open": "4 / 6"
@@ -136,12 +136,12 @@
           "label": "Tonight"
         }
       },
-      "score": 73,
+      "score": 72,
       "grade": "Great",
       "trend": "rising",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 90,
+          "freshSnow": 88,
           "baseDepth": 83,
           "forecastMomentum": 75,
           "temperature": 44,
@@ -163,7 +163,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-02-22T15:42:00.956Z",
+      "lastUpdated": "2026-02-22T16:11:02.147Z",
       "snow": {
         "base": "215cm",
         "snowfall12h": "7cm",
@@ -311,7 +311,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-22T15:41:57.173Z",
+      "lastUpdated": "2026-02-22T16:10:58.570Z",
       "snow": {
         "snowfall12h": "4cm",
         "snowOvernight": "1cm",
@@ -466,10 +466,10 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-02-22T15:41:53.391Z",
+      "lastUpdated": "2026-02-22T16:10:57.749Z",
       "snow": {
         "base": "108cm",
-        "summit": "175cm",
+        "summit": "185cm",
         "snowfall24h": "8cm",
         "snowfall48h": "9cm",
         "snowfall7day": "45cm",
@@ -504,7 +504,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-02-22T15:41:58.797Z",
+      "lastUpdated": "2026-02-22T16:11:01.443Z",
       "snow": {
         "base": "139cm",
         "summit": "162cm",
@@ -650,6 +650,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-02-22T15:42:01.906Z",
+  "lastUpdated": "2026-02-22T16:11:03.085Z",
   "count": 5
 }
