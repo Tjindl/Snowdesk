@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-16T16:32:03.919Z",
+      "lastUpdated": "2026-03-16T17:28:09.849Z",
       "snow": {
         "base": "232 cm",
         "snowOvernight": "17 cm",
@@ -163,7 +163,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-16T16:31:59.001Z",
+      "lastUpdated": "2026-03-16T17:28:02.953Z",
       "snow": {
         "base": "156cm",
         "summit": "245cm",
@@ -207,7 +207,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-16T16:32:00.875Z",
+      "lastUpdated": "2026-03-16T17:28:06.444Z",
       "snow": {
         "snowfall12h": "9cm",
         "snowOvernight": "2cm",
@@ -335,7 +335,7 @@
           "avg": 12.3,
           "max": 23.7
         },
-        "precipProbability": 80,
+        "precipProbability": 81,
         "peakWindow": {
           "startsIn": 1,
           "label": "Next few hours"
@@ -352,7 +352,7 @@
           "temperature": 45,
           "wind": 71,
           "operations": 55,
-          "powderProb": 59
+          "powderProb": 60
         },
         "bonuses": []
       },
@@ -362,7 +362,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-16T16:32:02.695Z",
+      "lastUpdated": "2026-03-16T17:28:08.443Z",
       "snow": {
         "base": "172cm",
         "summit": "201cm",
@@ -483,7 +483,7 @@
           "avg": 12.9,
           "max": 25.3
         },
-        "precipProbability": 24,
+        "precipProbability": 25,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -500,7 +500,7 @@
           "temperature": 46,
           "wind": 70,
           "operations": 50,
-          "powderProb": 18
+          "powderProb": 19
         },
         "bonuses": [
           {
@@ -516,7 +516,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-16T16:32:04.675Z",
+      "lastUpdated": "2026-03-16T17:28:10.337Z",
       "snow": {
         "base": "240cm",
         "snowfall12h": "10cm",
@@ -529,7 +529,7 @@
       "forecast": {
         "snowfall24h": 5.9,
         "snowfall48h": 6.1,
-        "snowfall72h": 7.4,
+        "snowfall72h": 7.2,
         "hourlySnow": [
           {
             "hour": 0,
@@ -637,20 +637,20 @@
           "avg": 14.3,
           "max": 29.9
         },
-        "precipProbability": 72,
+        "precipProbability": 73,
         "peakWindow": {
           "startsIn": 7,
           "label": "This morning"
         }
       },
-      "score": 58,
+      "score": 59,
       "grade": "Good",
       "trend": "rising",
       "scoreMeta": {
         "factors": {
           "freshSnow": 64,
           "baseDepth": 90,
-          "forecastMomentum": 48,
+          "forecastMomentum": 49,
           "temperature": 14,
           "wind": 65,
           "operations": 50,
@@ -668,6 +668,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-16T16:32:05.464Z",
+  "lastUpdated": "2026-03-16T17:28:11.211Z",
   "count": 5
 }
