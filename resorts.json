@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-17T22:14:42.195Z",
+      "lastUpdated": "2026-03-17T22:46:29.425Z",
       "snow": {
         "base": "142cm",
         "summit": "228cm",
@@ -41,7 +41,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-17T22:14:49.359Z",
+      "lastUpdated": "2026-03-17T22:46:32.839Z",
       "snow": {
         "base": "223 cm",
         "snowOvernight": "0 cm",
@@ -162,10 +162,10 @@
         "temperature": {
           "avg": 4.2,
           "min": 3.4,
-          "max": 4.9
+          "max": 5.3
         },
         "wind": {
-          "avg": 15.2,
+          "avg": 15.7,
           "max": 20.9
         },
         "precipProbability": 70,
@@ -193,157 +193,9 @@
       "isBestToday": false
     },
     {
-      "name": "Whistler Blackcomb",
-      "location": "Whistler, BC",
-      "lastUpdated": "2026-03-17T22:14:49.700Z",
-      "snow": {
-        "base": "234cm",
-        "snowfall12h": "4cm",
-        "snowfall24h": "4cm",
-        "snowfall48h": "14cm",
-        "snowfall7day": "28cm",
-        "seasonTotal": "714cm"
-      },
-      "isOpen": true,
-      "forecast": {
-        "snowfall24h": 0,
-        "snowfall48h": 0,
-        "snowfall72h": 0.2,
-        "hourlySnow": [
-          {
-            "hour": 0,
-            "cm": 0
-          },
-          {
-            "hour": 1,
-            "cm": 0
-          },
-          {
-            "hour": 2,
-            "cm": 0
-          },
-          {
-            "hour": 3,
-            "cm": 0
-          },
-          {
-            "hour": 4,
-            "cm": 0
-          },
-          {
-            "hour": 5,
-            "cm": 0
-          },
-          {
-            "hour": 6,
-            "cm": 0
-          },
-          {
-            "hour": 7,
-            "cm": 0
-          },
-          {
-            "hour": 8,
-            "cm": 0
-          },
-          {
-            "hour": 9,
-            "cm": 0
-          },
-          {
-            "hour": 10,
-            "cm": 0
-          },
-          {
-            "hour": 11,
-            "cm": 0
-          },
-          {
-            "hour": 12,
-            "cm": 0
-          },
-          {
-            "hour": 13,
-            "cm": 0
-          },
-          {
-            "hour": 14,
-            "cm": 0
-          },
-          {
-            "hour": 15,
-            "cm": 0
-          },
-          {
-            "hour": 16,
-            "cm": 0
-          },
-          {
-            "hour": 17,
-            "cm": 0
-          },
-          {
-            "hour": 18,
-            "cm": 0
-          },
-          {
-            "hour": 19,
-            "cm": 0
-          },
-          {
-            "hour": 20,
-            "cm": 0
-          },
-          {
-            "hour": 21,
-            "cm": 0
-          },
-          {
-            "hour": 22,
-            "cm": 0
-          },
-          {
-            "hour": 23,
-            "cm": 0
-          }
-        ],
-        "temperature": {
-          "avg": 6.5,
-          "min": 3.9,
-          "max": 9.4
-        },
-        "wind": {
-          "avg": 16.2,
-          "max": 23.3
-        },
-        "precipProbability": 77,
-        "peakWindow": {
-          "startsIn": 0,
-          "label": "Next few hours"
-        }
-      },
-      "score": 39,
-      "grade": "Poor",
-      "trend": "steady",
-      "scoreMeta": {
-        "factors": {
-          "freshSnow": 44,
-          "baseDepth": 89,
-          "forecastMomentum": 13,
-          "temperature": 0,
-          "wind": 68,
-          "operations": 50,
-          "powderProb": 0
-        },
-        "bonuses": []
-      },
-      "rank": 3,
-      "isBestToday": false
-    },
-    {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-17T22:14:47.029Z",
+      "lastUpdated": "2026-03-17T22:46:30.598Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -463,12 +315,12 @@
           }
         ],
         "temperature": {
-          "avg": 3.5,
+          "avg": 3.4,
           "min": 2.8,
-          "max": 4.2
+          "max": 4
         },
         "wind": {
-          "avg": 13.4,
+          "avg": 13.6,
           "max": 20
         },
         "precipProbability": 79,
@@ -485,10 +337,158 @@
           "freshSnow": 38,
           "baseDepth": 71,
           "forecastMomentum": 13,
-          "temperature": 22,
+          "temperature": 23,
           "wind": 73,
           "operations": 43,
-          "powderProb": 24
+          "powderProb": 25
+        },
+        "bonuses": []
+      },
+      "rank": 3,
+      "isBestToday": false
+    },
+    {
+      "name": "Whistler Blackcomb",
+      "location": "Whistler, BC",
+      "lastUpdated": "2026-03-17T22:46:34.680Z",
+      "snow": {
+        "base": "234cm",
+        "snowfall12h": "4cm",
+        "snowfall24h": "4cm",
+        "snowfall48h": "14cm",
+        "snowfall7day": "28cm",
+        "seasonTotal": "714cm"
+      },
+      "isOpen": true,
+      "forecast": {
+        "snowfall24h": 0,
+        "snowfall48h": 0,
+        "snowfall72h": 0.2,
+        "hourlySnow": [
+          {
+            "hour": 0,
+            "cm": 0
+          },
+          {
+            "hour": 1,
+            "cm": 0
+          },
+          {
+            "hour": 2,
+            "cm": 0
+          },
+          {
+            "hour": 3,
+            "cm": 0
+          },
+          {
+            "hour": 4,
+            "cm": 0
+          },
+          {
+            "hour": 5,
+            "cm": 0
+          },
+          {
+            "hour": 6,
+            "cm": 0
+          },
+          {
+            "hour": 7,
+            "cm": 0
+          },
+          {
+            "hour": 8,
+            "cm": 0
+          },
+          {
+            "hour": 9,
+            "cm": 0
+          },
+          {
+            "hour": 10,
+            "cm": 0
+          },
+          {
+            "hour": 11,
+            "cm": 0
+          },
+          {
+            "hour": 12,
+            "cm": 0
+          },
+          {
+            "hour": 13,
+            "cm": 0
+          },
+          {
+            "hour": 14,
+            "cm": 0
+          },
+          {
+            "hour": 15,
+            "cm": 0
+          },
+          {
+            "hour": 16,
+            "cm": 0
+          },
+          {
+            "hour": 17,
+            "cm": 0
+          },
+          {
+            "hour": 18,
+            "cm": 0
+          },
+          {
+            "hour": 19,
+            "cm": 0
+          },
+          {
+            "hour": 20,
+            "cm": 0
+          },
+          {
+            "hour": 21,
+            "cm": 0
+          },
+          {
+            "hour": 22,
+            "cm": 0
+          },
+          {
+            "hour": 23,
+            "cm": 0
+          }
+        ],
+        "temperature": {
+          "avg": 6.5,
+          "min": 3.9,
+          "max": 9.3
+        },
+        "wind": {
+          "avg": 16.8,
+          "max": 26.6
+        },
+        "precipProbability": 77,
+        "peakWindow": {
+          "startsIn": 0,
+          "label": "Next few hours"
+        }
+      },
+      "score": 38,
+      "grade": "Poor",
+      "trend": "steady",
+      "scoreMeta": {
+        "factors": {
+          "freshSnow": 44,
+          "baseDepth": 89,
+          "forecastMomentum": 13,
+          "temperature": 0,
+          "wind": 65,
+          "operations": 50,
+          "powderProb": 0
         },
         "bonuses": []
       },
@@ -498,9 +498,9 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-17T22:14:47.944Z",
+      "lastUpdated": "2026-03-17T22:46:32.925Z",
       "snow": {
-        "base": "165cm",
+        "base": "164cm",
         "summit": "195cm",
         "newSnow": "0cm",
         "snowfall24h": "0cm",
@@ -619,7 +619,7 @@
           "avg": 18.4,
           "max": 27.8
         },
-        "precipProbability": 4,
+        "precipProbability": 3,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-17T22:14:50.565Z",
+  "lastUpdated": "2026-03-17T22:46:35.568Z",
   "count": 5
 }
