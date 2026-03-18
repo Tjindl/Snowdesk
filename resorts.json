@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-18T05:53:21.913Z",
+      "lastUpdated": "2026-03-18T06:32:04.321Z",
       "snow": {
         "base": "142cm",
         "summit": "228cm",
@@ -41,7 +41,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-18T05:53:30.317Z",
+      "lastUpdated": "2026-03-18T06:32:09.790Z",
       "snow": {
         "base": "223 cm",
         "snowOvernight": "0 cm",
@@ -165,7 +165,7 @@
           "max": 6.4
         },
         "wind": {
-          "avg": 15.4,
+          "avg": 15.6,
           "max": 21.1
         },
         "precipProbability": 71,
@@ -195,7 +195,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-18T05:53:30.433Z",
+      "lastUpdated": "2026-03-18T06:32:11.267Z",
       "snow": {
         "base": "234cm",
         "snowfall12h": "0cm",
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-18T05:53:25.960Z",
+      "lastUpdated": "2026-03-18T06:32:07.306Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -468,7 +468,7 @@
           "max": 4.3
         },
         "wind": {
-          "avg": 12.9,
+          "avg": 12.8,
           "max": 20
         },
         "precipProbability": 80,
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-18T05:53:28.600Z",
+      "lastUpdated": "2026-03-18T06:32:09.680Z",
       "snow": {
         "base": "162cm",
         "summit": "193cm",
@@ -616,7 +616,7 @@
           "max": 9.7
         },
         "wind": {
-          "avg": 19.2,
+          "avg": 19.4,
           "max": 27.8
         },
         "precipProbability": 3,
@@ -634,7 +634,7 @@
           "baseDepth": 80,
           "forecastMomentum": 13,
           "temperature": 4,
-          "wind": 62,
+          "wind": 61,
           "operations": 50,
           "powderProb": 0
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-18T05:53:31.157Z",
+  "lastUpdated": "2026-03-18T06:32:12.109Z",
   "count": 5
 }
