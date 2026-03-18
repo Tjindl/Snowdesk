@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-18T08:49:16.988Z",
+      "lastUpdated": "2026-03-18T09:25:12.607Z",
       "snow": {
         "base": "142cm",
         "summit": "228cm",
@@ -41,7 +41,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-18T08:49:20.387Z",
+      "lastUpdated": "2026-03-18T09:25:13.725Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -169,7 +169,7 @@
           "avg": 12.3,
           "max": 19.8
         },
-        "precipProbability": 86,
+        "precipProbability": 87,
         "peakWindow": {
           "startsIn": 31,
           "label": "Tomorrow"
@@ -196,7 +196,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-18T08:49:23.867Z",
+      "lastUpdated": "2026-03-18T09:25:18.345Z",
       "snow": {
         "base": "223 cm",
         "snowOvernight": "0 cm",
@@ -323,7 +323,7 @@
           "avg": 14.1,
           "max": 22.7
         },
-        "precipProbability": 81,
+        "precipProbability": 82,
         "peakWindow": {
           "startsIn": 47,
           "label": "Day after tomorrow"
@@ -350,7 +350,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-18T08:49:24.993Z",
+      "lastUpdated": "2026-03-18T09:25:18.572Z",
       "snow": {
         "base": "234cm",
         "snowfall12h": "0cm",
@@ -471,7 +471,7 @@
           "avg": 13.9,
           "max": 22.7
         },
-        "precipProbability": 72,
+        "precipProbability": 71,
         "peakWindow": {
           "startsIn": 41,
           "label": "Day after tomorrow"
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-18T08:49:22.853Z",
+      "lastUpdated": "2026-03-18T09:25:16.501Z",
       "snow": {
         "base": "161cm",
         "summit": "192cm",
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-18T08:49:25.808Z",
+  "lastUpdated": "2026-03-18T09:25:19.295Z",
   "count": 5
 }
