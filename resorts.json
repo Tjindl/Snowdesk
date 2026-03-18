@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-18T22:45:10.400Z",
+      "lastUpdated": "2026-03-18T23:13:20.484Z",
       "snow": {
         "base": "130cm",
         "summit": "217cm",
@@ -41,7 +41,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-18T22:45:17.215Z",
+      "lastUpdated": "2026-03-18T23:13:26.452Z",
       "snow": {
         "base": "206 cm",
         "snowOvernight": "0 cm",
@@ -195,7 +195,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-18T22:45:19.550Z",
+      "lastUpdated": "2026-03-18T23:13:28.568Z",
       "snow": {
         "base": "223cm",
         "snowfall12h": "0cm",
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-18T22:45:15.000Z",
+      "lastUpdated": "2026-03-18T23:13:24.683Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -498,14 +498,14 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-18T22:45:17.241Z",
+      "lastUpdated": "2026-03-18T23:13:24.864Z",
       "snow": {
-        "base": "156cm",
+        "base": "155cm",
         "summit": "188cm",
         "newSnow": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "0cm",
-        "snowfall7day": "35cm"
+        "snowfall7day": "32cm"
       },
       "isOpen": true,
       "forecast": {
@@ -630,8 +630,8 @@
       "trend": "steady",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 22,
-          "baseDepth": 79,
+          "freshSnow": 21,
+          "baseDepth": 78,
           "forecastMomentum": 13,
           "temperature": 0,
           "wind": 75,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-18T22:45:20.415Z",
+  "lastUpdated": "2026-03-18T23:13:29.456Z",
   "count": 5
 }
