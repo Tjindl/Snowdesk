@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-19T08:48:13.167Z",
+      "lastUpdated": "2026-03-19T09:21:29.491Z",
       "snow": {
         "base": "130cm",
         "summit": "217cm",
@@ -41,7 +41,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-19T08:48:19.175Z",
+      "lastUpdated": "2026-03-19T09:21:35.323Z",
       "snow": {
         "base": "206 cm",
         "snowOvernight": "0 cm",
@@ -168,7 +168,7 @@
           "avg": 12.5,
           "max": 16.9
         },
-        "precipProbability": 85,
+        "precipProbability": 89,
         "peakWindow": {
           "startsIn": 39,
           "label": "Day after tomorrow"
@@ -195,7 +195,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-19T08:48:19.379Z",
+      "lastUpdated": "2026-03-19T09:21:35.144Z",
       "snow": {
         "base": "223cm",
         "snowfall12h": "0cm",
@@ -316,7 +316,7 @@
           "avg": 12.8,
           "max": 18.6
         },
-        "precipProbability": 78,
+        "precipProbability": 79,
         "peakWindow": {
           "startsIn": 46,
           "label": "Day after tomorrow"
@@ -343,7 +343,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-19T08:48:17.421Z",
+      "lastUpdated": "2026-03-19T09:21:33.864Z",
       "snow": {
         "base": "152cm",
         "summit": "185cm",
@@ -464,7 +464,7 @@
           "avg": 9.2,
           "max": 18.1
         },
-        "precipProbability": 7,
+        "precipProbability": 6,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-19T08:48:15.694Z",
+      "lastUpdated": "2026-03-19T09:21:31.443Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -619,7 +619,7 @@
           "avg": 10.5,
           "max": 13.1
         },
-        "precipProbability": 88,
+        "precipProbability": 91,
         "peakWindow": {
           "startsIn": 41,
           "label": "Day after tomorrow"
@@ -636,7 +636,7 @@
           "temperature": 20,
           "wind": 80,
           "operations": 0,
-          "powderProb": 23
+          "powderProb": 24
         },
         "bonuses": []
       },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-19T08:48:20.072Z",
+  "lastUpdated": "2026-03-19T09:21:36.028Z",
   "count": 5
 }
