@@ -3,10 +3,10 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-20T15:48:14.508Z",
+      "lastUpdated": "2026-03-20T16:19:53.103Z",
       "snow": {
         "base": "111cm",
-        "summit": "201cm",
+        "summit": "191cm",
         "snowfall24h": "0cm",
         "snowfall48h": "0cm",
         "snowfall7day": "29cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-20T15:48:22.445Z",
+      "lastUpdated": "2026-03-20T16:19:57.878Z",
       "snow": {
         "base": "215cm",
         "snowfall12h": "0cm",
@@ -189,7 +189,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-20T15:48:19.082Z",
+      "lastUpdated": "2026-03-20T16:19:54.595Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -344,7 +344,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-20T15:48:20.283Z",
+      "lastUpdated": "2026-03-20T16:19:56.658Z",
       "snow": {
         "base": "145cm",
         "summit": "179cm",
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-20T15:48:22.408Z",
+      "lastUpdated": "2026-03-20T16:19:57.255Z",
       "snow": {
         "base": "175 cm",
         "snowOvernight": "0 cm",
@@ -502,7 +502,7 @@
         "seasonTotal": "529 cm"
       },
       "lifts": {
-        "open": "0 / 6"
+        "open": "4 / 6"
       },
       "trails": {
         "open": "8 / 61"
@@ -625,7 +625,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 29,
+      "score": 31,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -635,7 +635,7 @@
           "forecastMomentum": 13,
           "temperature": 5,
           "wind": 66,
-          "operations": 21,
+          "operations": 43,
           "powderProb": 1
         },
         "bonuses": []
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-20T15:48:23.402Z",
+  "lastUpdated": "2026-03-20T16:19:58.562Z",
   "count": 5
 }
