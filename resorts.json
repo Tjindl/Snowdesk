@@ -3,7 +3,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-21T16:45:13.325Z",
+      "lastUpdated": "2026-03-21T17:10:28.706Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -17,7 +17,7 @@
         "open": "4 / 8"
       },
       "trails": {
-        "open": "10 / 34"
+        "open": "9 / 33"
       },
       "isOpen": true,
       "forecast": {
@@ -147,7 +147,7 @@
           "forecastMomentum": 45,
           "temperature": 81,
           "wind": 75,
-          "operations": 43,
+          "operations": 42,
           "powderProb": 2
         },
         "bonuses": []
@@ -158,7 +158,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-21T16:45:16.533Z",
+      "lastUpdated": "2026-03-21T17:10:30.601Z",
       "snow": {
         "base": "180 cm",
         "snowOvernight": "0 cm",
@@ -312,7 +312,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-21T16:45:16.773Z",
+      "lastUpdated": "2026-03-21T17:10:31.613Z",
       "snow": {
         "base": "215cm",
         "snowfall12h": "0cm",
@@ -433,7 +433,7 @@
           "avg": 11.9,
           "max": 20.8
         },
-        "precipProbability": 4,
+        "precipProbability": 5,
         "peakWindow": {
           "startsIn": 24,
           "label": "Tomorrow"
@@ -460,7 +460,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-21T16:45:07.937Z",
+      "lastUpdated": "2026-03-21T17:10:23.683Z",
       "snow": {
         "base": "110cm",
         "summit": "188cm",
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-21T16:45:15.479Z",
+      "lastUpdated": "2026-03-21T17:10:29.718Z",
       "snow": {
         "base": "147cm",
         "summit": "183cm",
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-21T16:45:17.467Z",
+  "lastUpdated": "2026-03-21T17:10:32.460Z",
   "count": 5
 }
