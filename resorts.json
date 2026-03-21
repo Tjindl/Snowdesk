@@ -3,7 +3,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-21T19:39:41.333Z",
+      "lastUpdated": "2026-03-21T20:09:20.926Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -158,7 +158,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-21T19:39:44.380Z",
+      "lastUpdated": "2026-03-21T20:09:24.261Z",
       "snow": {
         "base": "180 cm",
         "snowOvernight": "0 cm",
@@ -312,7 +312,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-21T19:39:45.067Z",
+      "lastUpdated": "2026-03-21T20:09:25.163Z",
       "snow": {
         "base": "215cm",
         "snowfall12h": "0cm",
@@ -324,8 +324,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0.5,
-        "snowfall48h": 2.8,
-        "snowfall72h": 2.8,
+        "snowfall48h": 3,
+        "snowfall72h": 3,
         "hourlySnow": [
           {
             "hour": 0,
@@ -435,7 +435,7 @@
         },
         "precipProbability": 5,
         "peakWindow": {
-          "startsIn": 25,
+          "startsIn": 27,
           "label": "Tomorrow"
         }
       },
@@ -460,7 +460,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-21T19:39:36.813Z",
+      "lastUpdated": "2026-03-21T20:09:17.084Z",
       "snow": {
         "base": "110cm",
         "summit": "188cm",
@@ -498,9 +498,9 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-21T19:39:42.103Z",
+      "lastUpdated": "2026-03-21T20:09:23.663Z",
       "snow": {
-        "base": "147cm",
+        "base": "148cm",
         "summit": "184cm",
         "newSnow": "3cm",
         "snowfall24h": "3cm",
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-21T19:39:45.950Z",
+  "lastUpdated": "2026-03-21T20:09:25.999Z",
   "count": 5
 }
