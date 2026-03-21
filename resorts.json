@@ -3,13 +3,13 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-21T11:39:53.946Z",
+      "lastUpdated": "2026-03-21T12:15:22.894Z",
       "snow": {
         "base": "215cm",
         "snowfall12h": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "1cm",
-        "snowfall7day": "19cm",
+        "snowfall7day": "15cm",
         "seasonTotal": "715cm"
       },
       "isOpen": true,
@@ -135,7 +135,7 @@
       "trend": "steady",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 20,
+          "freshSnow": 19,
           "baseDepth": 87,
           "forecastMomentum": 50,
           "temperature": 44,
@@ -151,7 +151,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-21T11:39:53.354Z",
+      "lastUpdated": "2026-03-21T12:15:21.248Z",
       "snow": {
         "base": "175 cm",
         "snowOvernight": "0 cm",
@@ -305,7 +305,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-21T11:39:50.715Z",
+      "lastUpdated": "2026-03-21T12:15:19.469Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -460,7 +460,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-21T11:39:47.669Z",
+      "lastUpdated": "2026-03-21T12:15:18.411Z",
       "snow": {
         "base": "111cm",
         "summit": "191cm",
@@ -498,10 +498,10 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-21T11:39:52.133Z",
+      "lastUpdated": "2026-03-21T12:15:21.479Z",
       "snow": {
         "base": "145cm",
-        "summit": "179cm",
+        "summit": "180cm",
         "newSnow": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "0cm",
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-21T11:39:54.624Z",
+  "lastUpdated": "2026-03-21T12:15:23.509Z",
   "count": 5
 }
