@@ -3,7 +3,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-23T11:48:04.223Z",
+      "lastUpdated": "2026-03-23T12:25:05.758Z",
       "snow": {
         "snowfall12h": "6cm",
         "snowOvernight": "5cm",
@@ -158,7 +158,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-23T11:48:03.588Z",
+      "lastUpdated": "2026-03-23T12:25:00.837Z",
       "snow": {
         "base": "111cm",
         "summit": "190cm",
@@ -196,14 +196,14 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-23T11:48:08.374Z",
+      "lastUpdated": "2026-03-23T12:25:08.806Z",
       "snow": {
         "base": "215cm",
         "snowfall12h": "0cm",
-        "snowfall24h": "0cm",
-        "snowfall48h": "2cm",
-        "snowfall7day": "7cm",
-        "seasonTotal": "717cm"
+        "snowfall24h": "1cm",
+        "snowfall48h": "3cm",
+        "snowfall7day": "8cm",
+        "seasonTotal": "718cm"
       },
       "isOpen": true,
       "forecast": {
@@ -328,7 +328,7 @@
       "trend": "steady",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 19,
+          "freshSnow": 20,
           "baseDepth": 87,
           "forecastMomentum": 23,
           "temperature": 50,
@@ -344,10 +344,10 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-23T11:48:05.933Z",
+      "lastUpdated": "2026-03-23T12:25:06.154Z",
       "snow": {
         "base": "145cm",
-        "summit": "181cm",
+        "summit": "180cm",
         "newSnow": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "5cm",
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-23T11:48:07.855Z",
+      "lastUpdated": "2026-03-23T12:25:08.076Z",
       "snow": {
         "base": "179 cm",
         "snowOvernight": "1 cm",
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-23T11:48:08.988Z",
+  "lastUpdated": "2026-03-23T12:25:09.711Z",
   "count": 5
 }
