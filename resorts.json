@@ -3,7 +3,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-25T07:28:05.499Z",
+      "lastUpdated": "2026-03-25T07:52:49.120Z",
       "snow": {
         "base": "226cm",
         "snowfall12h": "7cm",
@@ -151,7 +151,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-25T07:28:05.398Z",
+      "lastUpdated": "2026-03-25T07:52:48.364Z",
       "snow": {
         "base": "180 cm",
         "snowOvernight": "5 cm",
@@ -278,7 +278,7 @@
           "avg": 18.4,
           "max": 29.2
         },
-        "precipProbability": 27,
+        "precipProbability": 25,
         "peakWindow": {
           "startsIn": 39,
           "label": "Day after tomorrow"
@@ -295,7 +295,7 @@
           "temperature": 81,
           "wind": 61,
           "operations": 43,
-          "powderProb": 27
+          "powderProb": 25
         },
         "bonuses": []
       },
@@ -305,7 +305,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-25T07:28:01.167Z",
+      "lastUpdated": "2026-03-25T07:52:44.932Z",
       "snow": {
         "snowfall12h": "7cm",
         "snowOvernight": "3cm",
@@ -433,7 +433,7 @@
           "avg": 17.3,
           "max": 29.7
         },
-        "precipProbability": 29,
+        "precipProbability": 28,
         "peakWindow": {
           "startsIn": 39,
           "label": "Day after tomorrow"
@@ -450,7 +450,7 @@
           "temperature": 90,
           "wind": 62,
           "operations": 0,
-          "powderProb": 29
+          "powderProb": 28
         },
         "bonuses": []
       },
@@ -460,7 +460,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-25T07:28:04.395Z",
+      "lastUpdated": "2026-03-25T07:52:47.237Z",
       "snow": {
         "base": "150cm",
         "summit": "197cm",
@@ -608,7 +608,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-25T07:27:59.505Z",
+      "lastUpdated": "2026-03-25T07:52:42.306Z",
       "snow": {
         "base": "114cm",
         "summit": "193cm",
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-25T07:28:06.248Z",
+  "lastUpdated": "2026-03-25T07:52:49.814Z",
   "count": 5
 }
