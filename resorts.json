@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-27T19:46:52.861Z",
+      "lastUpdated": "2026-03-27T20:15:37.233Z",
       "snow": {
         "base": "122cm",
         "summit": "197cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-27T19:47:01.130Z",
+      "lastUpdated": "2026-03-27T20:15:44.210Z",
       "snow": {
         "base": "235cm",
         "snowfall12h": "1cm",
@@ -54,7 +54,7 @@
       "forecast": {
         "snowfall24h": 0,
         "snowfall48h": 0,
-        "snowfall72h": 2.6,
+        "snowfall72h": 2.9,
         "hourlySnow": [
           {
             "hour": 0,
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-27T19:47:00.962Z",
+      "lastUpdated": "2026-03-27T20:15:41.999Z",
       "snow": {
         "base": "194 cm",
         "snowOvernight": "3 cm",
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-27T19:46:56.493Z",
+      "lastUpdated": "2026-03-27T20:15:38.701Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-27T19:46:59.047Z",
+      "lastUpdated": "2026-03-27T20:15:39.499Z",
       "snow": {
         "base": "149cm",
         "summit": "195cm",
@@ -619,7 +619,7 @@
           "avg": 9.3,
           "max": 25.2
         },
-        "precipProbability": 1,
+        "precipProbability": 2,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -636,7 +636,7 @@
           "temperature": 61,
           "wind": 73,
           "operations": 50,
-          "powderProb": 1
+          "powderProb": 2
         },
         "bonuses": []
       },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-27T19:47:01.913Z",
+  "lastUpdated": "2026-03-27T20:15:44.913Z",
   "count": 5
 }
