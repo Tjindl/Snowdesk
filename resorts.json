@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-28T14:45:29.437Z",
+      "lastUpdated": "2026-03-28T15:13:32.088Z",
       "snow": {
         "base": "121cm",
         "summit": "204cm",
@@ -41,7 +41,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-28T14:45:30.376Z",
+      "lastUpdated": "2026-03-28T15:13:34.213Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -52,7 +52,7 @@
         "base": "116cm"
       },
       "lifts": {
-        "open": "4 / 8"
+        "open": "5 / 8"
       },
       "trails": {
         "open": "10 / 34"
@@ -185,7 +185,7 @@
           "forecastMomentum": 13,
           "temperature": 72,
           "wind": 79,
-          "operations": 43,
+          "operations": 47,
           "powderProb": 1
         },
         "bonuses": []
@@ -196,9 +196,9 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-28T14:45:33.352Z",
+      "lastUpdated": "2026-03-28T15:13:37.416Z",
       "snow": {
-        "base": "233cm",
+        "base": "230cm",
         "snowfall12h": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "1cm",
@@ -344,7 +344,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-28T14:45:33.548Z",
+      "lastUpdated": "2026-03-28T15:13:36.623Z",
       "snow": {
         "base": "190 cm",
         "snowOvernight": "0 cm",
@@ -498,14 +498,14 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-28T14:45:32.341Z",
+      "lastUpdated": "2026-03-28T15:13:36.193Z",
       "snow": {
         "base": "148cm",
         "summit": "194cm",
         "newSnow": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "0cm",
-        "snowfall7day": "12cm"
+        "snowfall7day": "10cm"
       },
       "isOpen": true,
       "forecast": {
@@ -625,7 +625,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 41,
+      "score": 40,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-28T14:45:34.191Z",
+  "lastUpdated": "2026-03-28T15:13:38.001Z",
   "count": 5
 }
