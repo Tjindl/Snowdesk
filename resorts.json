@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-29T15:44:28.848Z",
+      "lastUpdated": "2026-03-29T16:13:33.062Z",
       "snow": {
         "base": "121cm",
         "summit": "204cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-29T15:44:34.079Z",
+      "lastUpdated": "2026-03-29T16:13:39.926Z",
       "snow": {
         "base": "228cm",
         "snowfall12h": "1cm",
@@ -155,7 +155,7 @@
         ],
         "temperature": {
           "avg": -0.3,
-          "min": -3.9,
+          "min": -3.8,
           "max": 1.9
         },
         "wind": {
@@ -189,7 +189,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-29T15:44:31.631Z",
+      "lastUpdated": "2026-03-29T16:13:36.290Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -344,7 +344,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-29T15:44:32.122Z",
+      "lastUpdated": "2026-03-29T16:13:38.380Z",
       "snow": {
         "base": "148cm",
         "summit": "193cm",
@@ -465,7 +465,7 @@
           "avg": 14.3,
           "max": 20.4
         },
-        "precipProbability": 6,
+        "precipProbability": 5,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -482,7 +482,7 @@
           "temperature": 90,
           "wind": 72,
           "operations": 50,
-          "powderProb": 6
+          "powderProb": 5
         },
         "bonuses": []
       },
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-29T15:44:33.602Z",
+      "lastUpdated": "2026-03-29T16:13:38.978Z",
       "snow": {
         "base": "190 cm",
         "snowOvernight": "0 cm",
@@ -502,7 +502,7 @@
         "seasonTotal": "548 cm"
       },
       "lifts": {
-        "open": "0 / 6"
+        "open": "3 / 6"
       },
       "trails": {
         "open": "21 / 61"
@@ -612,7 +612,7 @@
         ],
         "temperature": {
           "avg": -1.2,
-          "min": -2.6,
+          "min": -2.5,
           "max": 0
         },
         "wind": {
@@ -625,7 +625,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 41,
+      "score": 43,
       "grade": "Fair",
       "trend": "steady",
       "scoreMeta": {
@@ -635,7 +635,7 @@
           "forecastMomentum": 13,
           "temperature": 73,
           "wind": 71,
-          "operations": 28,
+          "operations": 45,
           "powderProb": 4
         },
         "bonuses": []
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-29T15:44:34.937Z",
+  "lastUpdated": "2026-03-29T16:13:40.527Z",
   "count": 5
 }
