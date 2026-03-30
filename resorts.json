@@ -3,7 +3,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-03-30T11:53:07.176Z",
+      "lastUpdated": "2026-03-30T12:29:08.046Z",
       "snow": {
         "base": "228cm",
         "snowfall12h": "0cm",
@@ -121,7 +121,7 @@
           "max": 2.1
         },
         "wind": {
-          "avg": 6.4,
+          "avg": 6.3,
           "max": 9.5
         },
         "precipProbability": 0,
@@ -151,7 +151,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-30T11:53:00.096Z",
+      "lastUpdated": "2026-03-30T12:29:02.552Z",
       "snow": {
         "base": "121cm",
         "summit": "204cm",
@@ -189,7 +189,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-03-30T11:53:06.322Z",
+      "lastUpdated": "2026-03-30T12:29:07.284Z",
       "snow": {
         "base": "148cm",
         "summit": "193cm",
@@ -307,7 +307,7 @@
           "max": -1.7
         },
         "wind": {
-          "avg": 8.5,
+          "avg": 8.7,
           "max": 20.6
         },
         "precipProbability": 0,
@@ -337,7 +337,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-30T11:53:07.677Z",
+      "lastUpdated": "2026-03-30T12:29:08.505Z",
       "snow": {
         "base": "191 cm",
         "snowOvernight": "0 cm",
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-03-30T11:53:04.824Z",
+      "lastUpdated": "2026-03-30T12:29:04.946Z",
       "snow": {
         "snowfall12h": "1cm",
         "snowOvernight": "0cm",
@@ -616,7 +616,7 @@
           "max": -1.2
         },
         "wind": {
-          "avg": 5.4,
+          "avg": 5.5,
           "max": 14.3
         },
         "precipProbability": 0,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-03-30T11:53:08.529Z",
+  "lastUpdated": "2026-03-30T12:29:09.227Z",
   "count": 5
 }
