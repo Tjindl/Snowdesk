@@ -3,14 +3,14 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-01T20:48:32.921Z",
+      "lastUpdated": "2026-04-01T21:20:51.249Z",
       "snow": {
-        "snowfall12h": "15cm",
+        "snowfall12h": "18cm",
         "snowOvernight": "8cm",
-        "snowfall24h": "15cm",
-        "snowfall48h": "15cm",
-        "snowfall7day": "21cm",
-        "seasonTotal": "512cm",
+        "snowfall24h": "18cm",
+        "snowfall48h": "18cm",
+        "snowfall7day": "24cm",
+        "seasonTotal": "515cm",
         "base": "116cm"
       },
       "lifts": {
@@ -137,12 +137,12 @@
           "label": "This afternoon"
         }
       },
-      "score": 73,
+      "score": 75,
       "grade": "Great",
       "trend": "rising",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 69,
+          "freshSnow": 75,
           "baseDepth": 71,
           "forecastMomentum": 77,
           "temperature": 65,
@@ -164,7 +164,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-01T20:48:34.700Z",
+      "lastUpdated": "2026-04-01T21:20:54.587Z",
       "snow": {
         "base": "189 cm",
         "snowOvernight": "8 cm",
@@ -324,7 +324,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-01T20:48:31.877Z",
+      "lastUpdated": "2026-04-01T21:20:53.632Z",
       "snow": {
         "base": "150cm",
         "summit": "195cm",
@@ -472,7 +472,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-01T20:48:27.180Z",
+      "lastUpdated": "2026-04-01T21:20:48.788Z",
       "snow": {
         "base": "124cm",
         "summit": "212cm",
@@ -510,7 +510,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-01T20:48:34.797Z",
+      "lastUpdated": "2026-04-01T21:20:55.578Z",
       "snow": {
         "base": "228cm",
         "snowfall12h": "3cm",
@@ -656,6 +656,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-01T20:48:35.749Z",
+  "lastUpdated": "2026-04-01T21:20:56.349Z",
   "count": 5
 }
