@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-02T21:16:50.450Z",
+      "lastUpdated": "2026-04-02T21:47:49.491Z",
       "snow": {
         "base": "225 cm",
         "snowOvernight": "10 cm",
@@ -124,11 +124,11 @@
         "temperature": {
           "avg": 1.4,
           "min": 0.5,
-          "max": 3.1
+          "max": 3.2
         },
         "wind": {
-          "avg": 8.2,
-          "max": 15
+          "avg": 8.7,
+          "max": 14.9
         },
         "precipProbability": 10,
         "peakWindow": {
@@ -163,7 +163,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-02T21:16:48.248Z",
+      "lastUpdated": "2026-04-02T21:47:47.086Z",
       "snow": {
         "snowfall12h": "5cm",
         "snowOvernight": "5cm",
@@ -283,13 +283,13 @@
           }
         ],
         "temperature": {
-          "avg": 0.2,
+          "avg": 0.1,
           "min": -1.8,
-          "max": 2.2
+          "max": 2.4
         },
         "wind": {
-          "avg": 7.3,
-          "max": 12.8
+          "avg": 7.6,
+          "max": 13.3
         },
         "precipProbability": 11,
         "peakWindow": {
@@ -305,8 +305,8 @@
           "freshSnow": 85,
           "baseDepth": 71,
           "forecastMomentum": 49,
-          "temperature": 59,
-          "wind": 84,
+          "temperature": 60,
+          "wind": 83,
           "operations": 43,
           "powderProb": 11
         },
@@ -324,7 +324,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-02T21:16:45.292Z",
+      "lastUpdated": "2026-04-02T21:47:46.560Z",
       "snow": {
         "base": "140cm",
         "summit": "243cm",
@@ -368,7 +368,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-02T21:16:51.525Z",
+      "lastUpdated": "2026-04-02T21:47:50.877Z",
       "snow": {
         "base": "241cm",
         "snowfall12h": "9cm",
@@ -380,8 +380,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0.7,
-        "snowfall48h": 3.5,
-        "snowfall72h": 3.5,
+        "snowfall48h": 3.8,
+        "snowfall72h": 3.8,
         "hourlySnow": [
           {
             "hour": 0,
@@ -483,16 +483,16 @@
         "temperature": {
           "avg": 3.7,
           "min": 1.9,
-          "max": 5.2
+          "max": 5.1
         },
         "wind": {
-          "avg": 7.6,
-          "max": 14.7
+          "avg": 7,
+          "max": 12.6
         },
         "precipProbability": 10,
         "peakWindow": {
-          "startsIn": 1,
-          "label": "Next few hours"
+          "startsIn": 26,
+          "label": "Tomorrow"
         }
       },
       "score": 55,
@@ -502,9 +502,9 @@
         "factors": {
           "freshSnow": 61,
           "baseDepth": 90,
-          "forecastMomentum": 49,
+          "forecastMomentum": 50,
           "temperature": 20,
-          "wind": 82,
+          "wind": 84,
           "operations": 50,
           "powderProb": 3
         },
@@ -516,7 +516,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-02T21:16:49.140Z",
+      "lastUpdated": "2026-04-02T21:47:48.223Z",
       "snow": {
         "base": "152cm",
         "summit": "198cm",
@@ -629,12 +629,12 @@
           }
         ],
         "temperature": {
-          "avg": 2.1,
-          "min": -2.3,
-          "max": 5.6
+          "avg": 2.2,
+          "min": -0.8,
+          "max": 5.9
         },
         "wind": {
-          "avg": 15,
+          "avg": 15.9,
           "max": 30.1
         },
         "precipProbability": 6,
@@ -651,8 +651,8 @@
           "freshSnow": 27,
           "baseDepth": 78,
           "forecastMomentum": 13,
-          "temperature": 39,
-          "wind": 64,
+          "temperature": 38,
+          "wind": 63,
           "operations": 50,
           "powderProb": 3
         },
@@ -662,6 +662,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-02T21:16:52.185Z",
+  "lastUpdated": "2026-04-02T21:47:51.611Z",
   "count": 5
 }
