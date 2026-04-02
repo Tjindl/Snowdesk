@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-02T16:52:02.482Z",
+      "lastUpdated": "2026-04-02T17:22:58.194Z",
       "snow": {
         "base": "225 cm",
         "snowOvernight": "10 cm",
@@ -163,11 +163,11 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-02T16:51:59.218Z",
+      "lastUpdated": "2026-04-02T17:22:54.069Z",
       "snow": {
-        "snowfall12h": "8cm",
+        "snowfall12h": "5cm",
         "snowOvernight": "5cm",
-        "snowfall24h": "24cm",
+        "snowfall24h": "23cm",
         "snowfall48h": "35cm",
         "snowfall7day": "37cm",
         "seasonTotal": "532cm",
@@ -302,7 +302,7 @@
       "trend": "falling",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 87,
+          "freshSnow": 86,
           "baseDepth": 71,
           "forecastMomentum": 47,
           "temperature": 59,
@@ -324,7 +324,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-02T16:51:58.064Z",
+      "lastUpdated": "2026-04-02T17:22:53.028Z",
       "snow": {
         "base": "140cm",
         "summit": "243cm",
@@ -368,14 +368,14 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-02T16:52:03.410Z",
+      "lastUpdated": "2026-04-02T17:22:58.967Z",
       "snow": {
         "base": "241cm",
         "snowfall12h": "9cm",
         "snowfall24h": "10cm",
         "snowfall48h": "13cm",
-        "snowfall7day": "15cm",
-        "seasonTotal": "760cm"
+        "snowfall7day": "17cm",
+        "seasonTotal": "761cm"
       },
       "isOpen": true,
       "forecast": {
@@ -516,7 +516,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-02T16:52:01.289Z",
+      "lastUpdated": "2026-04-02T17:22:55.503Z",
       "snow": {
         "base": "157cm",
         "summit": "201cm",
@@ -662,6 +662,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-02T16:52:04.279Z",
+  "lastUpdated": "2026-04-02T17:22:59.745Z",
   "count": 5
 }
