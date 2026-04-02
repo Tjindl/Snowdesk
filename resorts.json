@@ -3,11 +3,11 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-02T15:54:08.984Z",
+      "lastUpdated": "2026-04-02T16:26:50.495Z",
       "snow": {
         "base": "225 cm",
-        "snowOvernight": "25 cm",
-        "snowfall24h": "28 cm",
+        "snowOvernight": "10 cm",
+        "snowfall24h": "25 cm",
         "snowfall48h": "33 cm",
         "snowfall7day": "39 cm",
         "seasonTotal": "584 cm"
@@ -127,7 +127,7 @@
           "max": 3.5
         },
         "wind": {
-          "avg": 7.2,
+          "avg": 7.3,
           "max": 11.5
         },
         "precipProbability": 10,
@@ -136,12 +136,12 @@
           "label": "Next few hours"
         }
       },
-      "score": 73,
+      "score": 71,
       "grade": "Great",
       "trend": "falling",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 98,
+          "freshSnow": 91,
           "baseDepth": 88,
           "forecastMomentum": 49,
           "temperature": 42,
@@ -163,7 +163,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-02T15:54:04.769Z",
+      "lastUpdated": "2026-04-02T16:26:48.505Z",
       "snow": {
         "snowfall12h": "8cm",
         "snowOvernight": "5cm",
@@ -324,7 +324,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-02T15:54:00.287Z",
+      "lastUpdated": "2026-04-02T16:26:47.882Z",
       "snow": {
         "base": "140cm",
         "summit": "212cm",
@@ -368,7 +368,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-02T15:54:09.893Z",
+      "lastUpdated": "2026-04-02T16:26:52.389Z",
       "snow": {
         "base": "241cm",
         "snowfall12h": "9cm",
@@ -516,7 +516,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-02T15:54:07.969Z",
+      "lastUpdated": "2026-04-02T16:26:47.917Z",
       "snow": {
         "base": "157cm",
         "summit": "201cm",
@@ -662,6 +662,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-02T15:54:10.762Z",
+  "lastUpdated": "2026-04-02T16:26:53.221Z",
   "count": 5
 }
