@@ -3,7 +3,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-03T11:46:45.137Z",
+      "lastUpdated": "2026-04-03T12:22:32.823Z",
       "snow": {
         "base": "217 cm",
         "snowOvernight": "10 cm",
@@ -163,7 +163,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-03T11:46:40.281Z",
+      "lastUpdated": "2026-04-03T12:22:28.637Z",
       "snow": {
         "base": "140cm",
         "summit": "243cm",
@@ -207,7 +207,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-03T11:46:42.720Z",
+      "lastUpdated": "2026-04-03T12:22:30.773Z",
       "snow": {
         "snowfall12h": "5cm",
         "snowOvernight": "5cm",
@@ -362,13 +362,13 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-03T11:46:45.913Z",
+      "lastUpdated": "2026-04-03T12:22:34.502Z",
       "snow": {
-        "base": "235cm",
+        "base": "233cm",
         "snowfall12h": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "10cm",
-        "snowfall7day": "17cm",
+        "snowfall7day": "16cm",
         "seasonTotal": "761cm"
       },
       "isOpen": true,
@@ -494,8 +494,8 @@
       "trend": "steady",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 25,
-          "baseDepth": 90,
+          "freshSnow": 24,
+          "baseDepth": 89,
           "forecastMomentum": 47,
           "temperature": 18,
           "wind": 80,
@@ -510,12 +510,12 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-03T11:46:44.040Z",
+      "lastUpdated": "2026-04-03T12:22:33.298Z",
       "snow": {
         "base": "151cm",
         "summit": "197cm",
         "newSnow": "0cm",
-        "snowfall24h": "1cm",
+        "snowfall24h": "0cm",
         "snowfall48h": "7cm",
         "snowfall7day": "7cm"
       },
@@ -637,12 +637,12 @@
           "label": "Next few hours"
         }
       },
-      "score": 38,
+      "score": 37,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 22,
+          "freshSnow": 21,
           "baseDepth": 78,
           "forecastMomentum": 13,
           "temperature": 39,
@@ -656,6 +656,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-03T11:46:46.518Z",
+  "lastUpdated": "2026-04-03T12:22:35.120Z",
   "count": 5
 }
