@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-05T06:02:04.057Z",
+      "lastUpdated": "2026-04-05T06:51:14.345Z",
       "snow": {
         "base": "140cm",
         "summit": "232cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-05T06:02:09.249Z",
+      "lastUpdated": "2026-04-05T06:51:19.532Z",
       "snow": {
         "base": "235cm",
         "snowfall12h": "0cm",
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-05T06:02:08.123Z",
+      "lastUpdated": "2026-04-05T06:51:18.628Z",
       "snow": {
         "base": "210 cm",
         "snowOvernight": "1 cm",
@@ -314,7 +314,7 @@
         },
         "wind": {
           "avg": 5.6,
-          "max": 9.6
+          "max": 8.9
         },
         "precipProbability": 2,
         "peakWindow": {
@@ -343,10 +343,10 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-05T06:02:06.924Z",
+      "lastUpdated": "2026-04-05T06:51:18.207Z",
       "snow": {
-        "base": "145cm",
-        "summit": "192cm",
+        "base": "146cm",
+        "summit": "191cm",
         "newSnow": "0cm",
         "snowfall24h": "0cm",
         "snowfall48h": "0cm",
@@ -461,7 +461,7 @@
           "max": 9.1
         },
         "wind": {
-          "avg": 12.5,
+          "avg": 12.8,
           "max": 19
         },
         "precipProbability": 2,
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-05T06:02:06.582Z",
+      "lastUpdated": "2026-04-05T06:51:15.186Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -616,7 +616,7 @@
           "max": 8.7
         },
         "wind": {
-          "avg": 4.9,
+          "avg": 4.8,
           "max": 10.8
         },
         "precipProbability": 2,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-05T06:02:09.859Z",
+  "lastUpdated": "2026-04-05T06:51:20.156Z",
   "count": 5
 }
