@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-06T07:06:20.035Z",
+      "lastUpdated": "2026-04-06T08:06:41.192Z",
       "snow": {
         "base": "135cm",
         "summit": "232cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-06T07:06:28.104Z",
+      "lastUpdated": "2026-04-06T08:06:47.119Z",
       "snow": {
         "base": "230cm",
         "snowfall12h": "0cm",
@@ -154,13 +154,13 @@
           }
         ],
         "temperature": {
-          "avg": 9.6,
-          "min": 3.3,
-          "max": 13.9
+          "avg": 9.5,
+          "min": 3.5,
+          "max": 13.7
         },
         "wind": {
-          "avg": 12,
-          "max": 26.8
+          "avg": 12.3,
+          "max": 27.1
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -168,7 +168,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 33,
+      "score": 32,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -177,7 +177,7 @@
           "baseDepth": 89,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 70,
+          "wind": 69,
           "operations": 50,
           "powderProb": 0
         },
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-06T07:06:27.409Z",
+      "lastUpdated": "2026-04-06T08:06:44.336Z",
       "snow": {
         "base": "210 cm",
         "snowOvernight": "0 cm",
@@ -308,13 +308,13 @@
           }
         ],
         "temperature": {
-          "avg": 8.3,
-          "min": 1.1,
-          "max": 11.8
+          "avg": 8.5,
+          "min": 1.6,
+          "max": 11.5
         },
         "wind": {
-          "avg": 11.2,
-          "max": 17.7
+          "avg": 11.8,
+          "max": 18.6
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -331,7 +331,7 @@
           "baseDepth": 87,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 77,
+          "wind": 75,
           "operations": 29,
           "powderProb": 0
         },
@@ -343,7 +343,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-06T07:06:26.639Z",
+      "lastUpdated": "2026-04-06T08:06:43.277Z",
       "snow": {
         "base": "142cm",
         "summit": "188cm",
@@ -456,13 +456,13 @@
           }
         ],
         "temperature": {
-          "avg": 7.6,
-          "min": -0.2,
-          "max": 14.4
+          "avg": 7.7,
+          "min": 1,
+          "max": 14.5
         },
         "wind": {
-          "avg": 9.8,
-          "max": 20.6
+          "avg": 10.1,
+          "max": 17.8
         },
         "precipProbability": 3,
         "peakWindow": {
@@ -479,7 +479,7 @@
           "baseDepth": 76,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 76,
+          "wind": 78,
           "operations": 50,
           "powderProb": 0
         },
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-06T07:06:25.695Z",
+      "lastUpdated": "2026-04-06T08:06:42.261Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -612,12 +612,12 @@
         ],
         "temperature": {
           "avg": 5.9,
-          "min": 0.6,
-          "max": 9.2
+          "min": 1.2,
+          "max": 9
         },
         "wind": {
-          "avg": 6.8,
-          "max": 17.1
+          "avg": 7.5,
+          "max": 15.5
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -634,7 +634,7 @@
           "baseDepth": 71,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 81,
+          "wind": 82,
           "operations": 0,
           "powderProb": 0
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-06T07:06:28.997Z",
+  "lastUpdated": "2026-04-06T08:06:47.808Z",
   "count": 5
 }
