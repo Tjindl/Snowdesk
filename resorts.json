@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-10T19:48:03.436Z",
+      "lastUpdated": "2026-04-10T20:15:45.506Z",
       "snow": {
         "base": "120cm",
         "summit": "205cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-10T19:48:11.514Z",
+      "lastUpdated": "2026-04-10T20:15:54.152Z",
       "snow": {
         "base": "216cm",
         "snowfall12h": "0cm",
@@ -53,8 +53,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0,
-        "snowfall48h": 0,
-        "snowfall72h": 0,
+        "snowfall48h": 0.1,
+        "snowfall72h": 0.1,
         "hourlySnow": [
           {
             "hour": 0,
@@ -164,8 +164,8 @@
         },
         "precipProbability": 2,
         "peakWindow": {
-          "startsIn": 0,
-          "label": "Next few hours"
+          "startsIn": 47,
+          "label": "Day after tomorrow"
         }
       },
       "score": 33,
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-10T19:48:10.340Z",
+      "lastUpdated": "2026-04-10T20:15:51.418Z",
       "snow": {
         "base": "191 cm",
         "snowOvernight": "0 cm",
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-10T19:48:05.746Z",
+      "lastUpdated": "2026-04-10T20:15:46.748Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-10T19:48:10.399Z",
+      "lastUpdated": "2026-04-10T20:15:50.445Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-10T19:48:12.322Z",
+  "lastUpdated": "2026-04-10T20:15:55.083Z",
   "count": 5
 }
