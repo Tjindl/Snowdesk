@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-10T17:48:41.673Z",
+      "lastUpdated": "2026-04-10T18:25:04.307Z",
       "snow": {
         "base": "120cm",
         "summit": "212cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-10T17:48:46.904Z",
+      "lastUpdated": "2026-04-10T18:25:12.009Z",
       "snow": {
         "base": "216cm",
         "snowfall12h": "0cm",
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-10T17:48:45.712Z",
+      "lastUpdated": "2026-04-10T18:25:10.147Z",
       "snow": {
         "base": "191 cm",
         "snowOvernight": "0 cm",
@@ -199,10 +199,10 @@
         "seasonTotal": "587 cm"
       },
       "lifts": {
-        "open": "0 / 6"
+        "open": "3 / 6"
       },
       "trails": {
-        "open": "16 / 61"
+        "open": "15 / 61"
       },
       "isOpen": true,
       "forecast": {
@@ -322,7 +322,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 29,
+      "score": 31,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -332,7 +332,7 @@
           "forecastMomentum": 13,
           "temperature": 0,
           "wind": 75,
-          "operations": 25,
+          "operations": 42,
           "powderProb": 0
         },
         "bonuses": []
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-10T17:48:40.689Z",
+      "lastUpdated": "2026-04-10T18:25:05.054Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-10T17:48:44.788Z",
+      "lastUpdated": "2026-04-10T18:25:09.963Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-10T17:48:47.519Z",
+  "lastUpdated": "2026-04-10T18:25:12.656Z",
   "count": 5
 }
