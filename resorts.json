@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-11T06:30:08.117Z",
+      "lastUpdated": "2026-04-11T06:56:35.784Z",
       "snow": {
         "base": "120cm",
         "summit": "205cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-11T06:30:13.152Z",
+      "lastUpdated": "2026-04-11T06:56:40.650Z",
       "snow": {
         "base": "214cm",
         "snowfall12h": "0cm",
@@ -159,7 +159,7 @@
           "max": 16.2
         },
         "wind": {
-          "avg": 6.5,
+          "avg": 6.6,
           "max": 11.6
         },
         "precipProbability": 1,
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-11T06:30:12.645Z",
+      "lastUpdated": "2026-04-11T06:56:38.336Z",
       "snow": {
         "base": "191 cm",
         "snowOvernight": "0 cm",
@@ -313,7 +313,7 @@
           "max": 14.4
         },
         "wind": {
-          "avg": 10,
+          "avg": 10.1,
           "max": 18.1
         },
         "precipProbability": 2,
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-11T06:30:06.957Z",
+      "lastUpdated": "2026-04-11T06:56:34.470Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -463,7 +463,7 @@
           }
         ],
         "temperature": {
-          "avg": 7.6,
+          "avg": 7.7,
           "min": 3.5,
           "max": 11.2
         },
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-11T06:30:11.957Z",
+      "lastUpdated": "2026-04-11T06:56:39.441Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -617,7 +617,7 @@
         },
         "wind": {
           "avg": 8.3,
-          "max": 19.4
+          "max": 17.9
         },
         "precipProbability": 0,
         "peakWindow": {
@@ -634,7 +634,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 78,
+          "wind": 79,
           "operations": 50,
           "powderProb": 0
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-11T06:30:21.075Z",
+  "lastUpdated": "2026-04-11T06:56:41.255Z",
   "count": 5
 }
