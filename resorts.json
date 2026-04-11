@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-11T10:15:53.252Z",
+      "lastUpdated": "2026-04-11T10:46:54.549Z",
       "snow": {
         "base": "120cm",
         "summit": "205cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-11T10:15:59.881Z",
+      "lastUpdated": "2026-04-11T10:47:00.153Z",
       "snow": {
         "base": "214cm",
         "snowfall12h": "0cm",
@@ -154,13 +154,13 @@
           }
         ],
         "temperature": {
-          "avg": 9.6,
-          "min": 6.4,
-          "max": 13.4
+          "avg": 9.5,
+          "min": 6.3,
+          "max": 13
         },
         "wind": {
-          "avg": 6.1,
-          "max": 11.9
+          "avg": 6,
+          "max": 11.2
         },
         "precipProbability": 9,
         "peakWindow": {
@@ -187,9 +187,163 @@
       "isBestToday": false
     },
     {
+      "name": "Cypress Mountain",
+      "location": "North Vancouver, BC",
+      "lastUpdated": "2026-04-11T10:46:58.715Z",
+      "snow": {
+        "base": "191 cm",
+        "snowOvernight": "0 cm",
+        "snowfall24h": "0 cm",
+        "snowfall48h": "0 cm",
+        "snowfall7day": "1 cm",
+        "seasonTotal": "587 cm"
+      },
+      "lifts": {
+        "open": "3 / 6"
+      },
+      "trails": {
+        "open": "15 / 61"
+      },
+      "isOpen": true,
+      "forecast": {
+        "snowfall24h": 0,
+        "snowfall48h": 0,
+        "snowfall72h": 0,
+        "hourlySnow": [
+          {
+            "hour": 0,
+            "cm": 0
+          },
+          {
+            "hour": 1,
+            "cm": 0
+          },
+          {
+            "hour": 2,
+            "cm": 0
+          },
+          {
+            "hour": 3,
+            "cm": 0
+          },
+          {
+            "hour": 4,
+            "cm": 0
+          },
+          {
+            "hour": 5,
+            "cm": 0
+          },
+          {
+            "hour": 6,
+            "cm": 0
+          },
+          {
+            "hour": 7,
+            "cm": 0
+          },
+          {
+            "hour": 8,
+            "cm": 0
+          },
+          {
+            "hour": 9,
+            "cm": 0
+          },
+          {
+            "hour": 10,
+            "cm": 0
+          },
+          {
+            "hour": 11,
+            "cm": 0
+          },
+          {
+            "hour": 12,
+            "cm": 0
+          },
+          {
+            "hour": 13,
+            "cm": 0
+          },
+          {
+            "hour": 14,
+            "cm": 0
+          },
+          {
+            "hour": 15,
+            "cm": 0
+          },
+          {
+            "hour": 16,
+            "cm": 0
+          },
+          {
+            "hour": 17,
+            "cm": 0
+          },
+          {
+            "hour": 18,
+            "cm": 0
+          },
+          {
+            "hour": 19,
+            "cm": 0
+          },
+          {
+            "hour": 20,
+            "cm": 0
+          },
+          {
+            "hour": 21,
+            "cm": 0
+          },
+          {
+            "hour": 22,
+            "cm": 0
+          },
+          {
+            "hour": 23,
+            "cm": 0
+          }
+        ],
+        "temperature": {
+          "avg": 7.3,
+          "min": 5.3,
+          "max": 9.9
+        },
+        "wind": {
+          "avg": 4.4,
+          "max": 8.8
+        },
+        "precipProbability": 17,
+        "peakWindow": {
+          "startsIn": 0,
+          "label": "Next few hours"
+        }
+      },
+      "score": 32,
+      "grade": "Poor",
+      "trend": "steady",
+      "scoreMeta": {
+        "factors": {
+          "freshSnow": 17,
+          "baseDepth": 84,
+          "forecastMomentum": 13,
+          "temperature": 0,
+          "wind": 90,
+          "operations": 42,
+          "powderProb": 0
+        },
+        "bonuses": []
+      },
+      "rank": 3,
+      "isBestToday": false
+    },
+    {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-11T10:15:54.380Z",
+      "lastUpdated": "2026-04-11T10:46:53.432Z",
       "snow": {
         "snowfall12h": "0cm",
         "snowOvernight": "0cm",
@@ -309,13 +463,13 @@
           }
         ],
         "temperature": {
-          "avg": 6.1,
+          "avg": 5.8,
           "min": 4.2,
-          "max": 7.9
+          "max": 7.7
         },
         "wind": {
-          "avg": 4.4,
-          "max": 10
+          "avg": 4.6,
+          "max": 9.7
         },
         "precipProbability": 18,
         "peakWindow": {
@@ -338,13 +492,13 @@
         },
         "bonuses": []
       },
-      "rank": 3,
+      "rank": 4,
       "isBestToday": false
     },
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-11T10:15:57.963Z",
+      "lastUpdated": "2026-04-11T10:46:58.531Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -457,13 +611,13 @@
           }
         ],
         "temperature": {
-          "avg": 8.2,
+          "avg": 8.4,
           "min": 3.7,
-          "max": 12.6
+          "max": 12.9
         },
         "wind": {
-          "avg": 5.8,
-          "max": 20.8
+          "avg": 6.2,
+          "max": 25.3
         },
         "precipProbability": 7,
         "peakWindow": {
@@ -471,7 +625,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 20,
+      "score": 19,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -480,16 +634,16 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 80,
+          "wind": 76,
           "operations": 50,
           "powderProb": 0
         },
         "bonuses": []
       },
-      "rank": 4,
+      "rank": 5,
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-11T10:16:00.788Z",
-  "count": 4
+  "lastUpdated": "2026-04-11T10:47:00.946Z",
+  "count": 5
 }
