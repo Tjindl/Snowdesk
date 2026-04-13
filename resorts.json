@@ -3,7 +3,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-13T16:34:11.503Z",
+      "lastUpdated": "2026-04-13T17:29:02.902Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -164,7 +164,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-13T16:34:17.504Z",
+      "lastUpdated": "2026-04-13T17:29:09.440Z",
       "snow": {
         "base": "208cm",
         "snowfall12h": "0cm",
@@ -176,8 +176,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0.6,
-        "snowfall48h": 13.3,
-        "snowfall72h": 14.4,
+        "snowfall48h": 13.5,
+        "snowfall72h": 14.6,
         "hourlySnow": [
           {
             "hour": 0,
@@ -285,7 +285,7 @@
           "avg": 12.6,
           "max": 15.5
         },
-        "precipProbability": 13,
+        "precipProbability": 14,
         "peakWindow": {
           "startsIn": 32,
           "label": "Tomorrow"
@@ -298,7 +298,7 @@
         "factors": {
           "freshSnow": 17,
           "baseDepth": 86,
-          "forecastMomentum": 35,
+          "forecastMomentum": 36,
           "temperature": 0,
           "wind": 77,
           "operations": 50,
@@ -312,7 +312,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-13T16:34:12.845Z",
+      "lastUpdated": "2026-04-13T17:29:01.503Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -350,7 +350,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-13T16:34:16.179Z",
+      "lastUpdated": "2026-04-13T17:29:08.899Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -510,7 +510,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-13T16:34:15.876Z",
+      "lastUpdated": "2026-04-13T17:29:08.183Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -656,6 +656,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-13T16:34:18.316Z",
+  "lastUpdated": "2026-04-13T17:29:10.333Z",
   "count": 5
 }
