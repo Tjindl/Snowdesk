@@ -3,7 +3,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-15T19:35:38.216Z",
+      "lastUpdated": "2026-04-15T20:23:52.229Z",
       "snow": {
         "base": "215cm",
         "snowfall12h": "7cm",
@@ -151,7 +151,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-15T19:35:36.895Z",
+      "lastUpdated": "2026-04-15T20:23:51.389Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -305,7 +305,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-15T19:35:31.771Z",
+      "lastUpdated": "2026-04-15T20:23:45.426Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-15T19:35:32.013Z",
+      "lastUpdated": "2026-04-15T20:23:45.884Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -471,13 +471,13 @@
           "avg": 10.6,
           "max": 22.1
         },
-        "precipProbability": 3,
+        "precipProbability": 4,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
         }
       },
-      "score": 32,
+      "score": 33,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -488,7 +488,7 @@
           "temperature": 88,
           "wind": 74,
           "operations": 50,
-          "powderProb": 3
+          "powderProb": 4
         },
         "bonuses": []
       },
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-15T19:35:36.554Z",
+      "lastUpdated": "2026-04-15T20:23:51.048Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -511,7 +511,7 @@
       "forecast": {
         "snowfall24h": 0,
         "snowfall48h": 0,
-        "snowfall72h": 0.2,
+        "snowfall72h": 0.1,
         "hourlySnow": [
           {
             "hour": 0,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-15T19:35:38.824Z",
+  "lastUpdated": "2026-04-15T20:23:52.967Z",
   "count": 5
 }
