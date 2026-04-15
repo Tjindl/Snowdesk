@@ -3,7 +3,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-15T14:40:34.171Z",
+      "lastUpdated": "2026-04-15T15:33:53.016Z",
       "snow": {
         "base": "215cm",
         "snowfall12h": "7cm",
@@ -116,12 +116,12 @@
           }
         ],
         "temperature": {
-          "avg": -0.5,
+          "avg": -0.4,
           "min": -4.2,
-          "max": 2.6
+          "max": 2.8
         },
         "wind": {
-          "avg": 7.1,
+          "avg": 7.3,
           "max": 12
         },
         "precipProbability": 3,
@@ -138,8 +138,8 @@
           "freshSnow": 63,
           "baseDepth": 87,
           "forecastMomentum": 13,
-          "temperature": 66,
-          "wind": 85,
+          "temperature": 65,
+          "wind": 84,
           "operations": 50,
           "powderProb": 3
         },
@@ -149,163 +149,9 @@
       "isBestToday": true
     },
     {
-      "name": "Cypress Mountain",
-      "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-15T14:40:32.561Z",
-      "snow": {
-        "base": "185 cm",
-        "snowOvernight": "0 cm",
-        "snowfall24h": "0 cm",
-        "snowfall48h": "0 cm",
-        "snowfall7day": "0 cm",
-        "seasonTotal": "587 cm"
-      },
-      "lifts": {
-        "open": "0 / 6"
-      },
-      "trails": {
-        "open": "15 / 61"
-      },
-      "isOpen": true,
-      "forecast": {
-        "snowfall24h": 0,
-        "snowfall48h": 0,
-        "snowfall72h": 0,
-        "hourlySnow": [
-          {
-            "hour": 0,
-            "cm": 0
-          },
-          {
-            "hour": 1,
-            "cm": 0
-          },
-          {
-            "hour": 2,
-            "cm": 0
-          },
-          {
-            "hour": 3,
-            "cm": 0
-          },
-          {
-            "hour": 4,
-            "cm": 0
-          },
-          {
-            "hour": 5,
-            "cm": 0
-          },
-          {
-            "hour": 6,
-            "cm": 0
-          },
-          {
-            "hour": 7,
-            "cm": 0
-          },
-          {
-            "hour": 8,
-            "cm": 0
-          },
-          {
-            "hour": 9,
-            "cm": 0
-          },
-          {
-            "hour": 10,
-            "cm": 0
-          },
-          {
-            "hour": 11,
-            "cm": 0
-          },
-          {
-            "hour": 12,
-            "cm": 0
-          },
-          {
-            "hour": 13,
-            "cm": 0
-          },
-          {
-            "hour": 14,
-            "cm": 0
-          },
-          {
-            "hour": 15,
-            "cm": 0
-          },
-          {
-            "hour": 16,
-            "cm": 0
-          },
-          {
-            "hour": 17,
-            "cm": 0
-          },
-          {
-            "hour": 18,
-            "cm": 0
-          },
-          {
-            "hour": 19,
-            "cm": 0
-          },
-          {
-            "hour": 20,
-            "cm": 0
-          },
-          {
-            "hour": 21,
-            "cm": 0
-          },
-          {
-            "hour": 22,
-            "cm": 0
-          },
-          {
-            "hour": 23,
-            "cm": 0
-          }
-        ],
-        "temperature": {
-          "avg": -2.4,
-          "min": -5.3,
-          "max": 0.4
-        },
-        "wind": {
-          "avg": 10,
-          "max": 17
-        },
-        "precipProbability": 4,
-        "peakWindow": {
-          "startsIn": 0,
-          "label": "Next few hours"
-        }
-      },
-      "score": 42,
-      "grade": "Fair",
-      "trend": "steady",
-      "scoreMeta": {
-        "factors": {
-          "freshSnow": 17,
-          "baseDepth": 83,
-          "forecastMomentum": 13,
-          "temperature": 83,
-          "wind": 78,
-          "operations": 25,
-          "powderProb": 4
-        },
-        "bonuses": []
-      },
-      "rank": 2,
-      "isBestToday": false
-    },
-    {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-15T14:40:29.589Z",
+      "lastUpdated": "2026-04-15T15:33:48.470Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -337,13 +183,13 @@
         },
         "bonuses": []
       },
-      "rank": 3,
+      "rank": 2,
       "isBestToday": false
     },
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-15T14:40:27.424Z",
+      "lastUpdated": "2026-04-15T15:33:47.056Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -463,15 +309,15 @@
           }
         ],
         "temperature": {
-          "avg": -3.2,
-          "min": -6.7,
+          "avg": -3.1,
+          "min": -6.3,
           "max": -0.3
         },
         "wind": {
-          "avg": 10.3,
+          "avg": 10.2,
           "max": 22.3
         },
-        "precipProbability": 5,
+        "precipProbability": 4,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -488,17 +334,17 @@
           "temperature": 88,
           "wind": 74,
           "operations": 50,
-          "powderProb": 5
+          "powderProb": 4
         },
         "bonuses": []
       },
-      "rank": 4,
+      "rank": 3,
       "isBestToday": false
     },
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-15T14:40:33.237Z",
+      "lastUpdated": "2026-04-15T15:33:51.611Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -613,13 +459,13 @@
         "temperature": {
           "avg": -1.4,
           "min": -4.4,
-          "max": 0.4
+          "max": 0.8
         },
         "wind": {
           "avg": 13.8,
           "max": 34.5
         },
-        "precipProbability": 9,
+        "precipProbability": 8,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -636,14 +482,14 @@
           "temperature": 75,
           "wind": 62,
           "operations": 50,
-          "powderProb": 9
+          "powderProb": 8
         },
         "bonuses": []
       },
-      "rank": 5,
+      "rank": 4,
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-15T14:40:34.927Z",
-  "count": 5
+  "lastUpdated": "2026-04-15T15:33:53.667Z",
+  "count": 4
 }
