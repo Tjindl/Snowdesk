@@ -3,11 +3,11 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-15T21:49:26.285Z",
+      "lastUpdated": "2026-04-15T22:20:01.917Z",
       "snow": {
         "base": "215cm",
         "snowfall12h": "7cm",
-        "snowfall24h": "14cm",
+        "snowfall24h": "7cm",
         "snowfall48h": "14cm",
         "snowfall7day": "14cm",
         "seasonTotal": "796cm"
@@ -130,12 +130,12 @@
           "label": "Next few hours"
         }
       },
-      "score": 55,
-      "grade": "Good",
+      "score": 52,
+      "grade": "Fair",
       "trend": "falling",
       "scoreMeta": {
         "factors": {
-          "freshSnow": 63,
+          "freshSnow": 52,
           "baseDepth": 87,
           "forecastMomentum": 13,
           "temperature": 64,
@@ -151,7 +151,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-15T21:49:26.205Z",
+      "lastUpdated": "2026-04-15T22:20:00.593Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -305,7 +305,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-15T21:49:21.527Z",
+      "lastUpdated": "2026-04-15T22:19:55.437Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -460,7 +460,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-15T21:49:22.836Z",
+      "lastUpdated": "2026-04-15T22:19:54.292Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-15T21:49:25.674Z",
+      "lastUpdated": "2026-04-15T22:19:59.435Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-15T21:49:26.947Z",
+  "lastUpdated": "2026-04-15T22:20:12.032Z",
   "count": 5
 }
