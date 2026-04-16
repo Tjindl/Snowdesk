@@ -3,7 +3,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-16T11:55:40.879Z",
+      "lastUpdated": "2026-04-16T12:34:59.222Z",
       "snow": {
         "base": "214cm",
         "snowfall12h": "0cm",
@@ -121,7 +121,7 @@
           "max": 6.3
         },
         "wind": {
-          "avg": 9.1,
+          "avg": 9,
           "max": 15.6
         },
         "precipProbability": 1,
@@ -151,7 +151,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-16T11:55:39.837Z",
+      "lastUpdated": "2026-04-16T12:34:55.116Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -305,7 +305,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-16T11:55:33.152Z",
+      "lastUpdated": "2026-04-16T12:34:52.334Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -343,7 +343,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-16T11:55:39.479Z",
+      "lastUpdated": "2026-04-16T12:34:56.182Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -461,7 +461,7 @@
           "max": 4.9
         },
         "wind": {
-          "avg": 14.8,
+          "avg": 14.7,
           "max": 47.9
         },
         "precipProbability": 2,
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-16T11:55:35.135Z",
+      "lastUpdated": "2026-04-16T12:34:50.731Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-16T11:55:41.722Z",
+  "lastUpdated": "2026-04-16T12:34:59.981Z",
   "count": 5
 }
