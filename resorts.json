@@ -3,7 +3,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-16T10:36:09.787Z",
+      "lastUpdated": "2026-04-16T11:29:22.871Z",
       "snow": {
         "base": "214cm",
         "snowfall12h": "0cm",
@@ -121,7 +121,7 @@
           "max": 6.6
         },
         "wind": {
-          "avg": 9,
+          "avg": 9.1,
           "max": 16.2
         },
         "precipProbability": 1,
@@ -151,7 +151,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-16T10:36:07.955Z",
+      "lastUpdated": "2026-04-16T11:29:20.830Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -275,7 +275,7 @@
           "max": 2.8
         },
         "wind": {
-          "avg": 9.5,
+          "avg": 9.4,
           "max": 13.8
         },
         "precipProbability": 0,
@@ -305,7 +305,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-16T10:36:02.617Z",
+      "lastUpdated": "2026-04-16T11:29:13.944Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -343,7 +343,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-16T10:36:06.148Z",
+      "lastUpdated": "2026-04-16T11:29:19.800Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-16T10:36:03.414Z",
+      "lastUpdated": "2026-04-16T11:29:15.494Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -616,7 +616,7 @@
           "max": 2.1
         },
         "wind": {
-          "avg": 10.1,
+          "avg": 10.2,
           "max": 17
         },
         "precipProbability": 0,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-16T10:36:10.587Z",
+  "lastUpdated": "2026-04-16T11:29:23.727Z",
   "count": 5
 }
