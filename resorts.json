@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-19T18:49:06.375Z",
+      "lastUpdated": "2026-04-19T19:20:52.183Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-19T18:49:11.920Z",
+      "lastUpdated": "2026-04-19T19:20:57.025Z",
       "snow": {
         "base": "208cm",
         "snowfall12h": "0cm",
@@ -154,9 +154,9 @@
           }
         ],
         "temperature": {
-          "avg": 12.1,
+          "avg": 12,
           "min": 7.4,
-          "max": 17.4
+          "max": 17.3
         },
         "wind": {
           "avg": 5.7,
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-19T18:49:10.888Z",
+      "lastUpdated": "2026-04-19T19:20:56.001Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -310,7 +310,7 @@
         "temperature": {
           "avg": 10.9,
           "min": 6.3,
-          "max": 15.5
+          "max": 15.4
         },
         "wind": {
           "avg": 9.7,
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-19T18:49:05.211Z",
+      "lastUpdated": "2026-04-19T19:20:50.286Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -465,7 +465,7 @@
         "temperature": {
           "avg": 9,
           "min": 5.1,
-          "max": 12.6
+          "max": 12.7
         },
         "wind": {
           "avg": 8.5,
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-19T18:49:09.163Z",
+      "lastUpdated": "2026-04-19T19:20:54.739Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -611,9 +611,9 @@
           }
         ],
         "temperature": {
-          "avg": 10.1,
+          "avg": 9.9,
           "min": 4.6,
-          "max": 16.6
+          "max": 16.1
         },
         "wind": {
           "avg": 8.2,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-19T18:49:12.725Z",
+  "lastUpdated": "2026-04-19T19:20:57.898Z",
   "count": 5
 }
