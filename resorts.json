@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-19T16:16:45.818Z",
+      "lastUpdated": "2026-04-19T16:47:57.349Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-19T16:16:53.667Z",
+      "lastUpdated": "2026-04-19T16:48:05.875Z",
       "snow": {
         "base": "208cm",
         "snowfall12h": "0cm",
@@ -156,10 +156,10 @@
         "temperature": {
           "avg": 12.3,
           "min": 7.4,
-          "max": 17.3
+          "max": 17.5
         },
         "wind": {
-          "avg": 5.8,
+          "avg": 6,
           "max": 9.6
         },
         "precipProbability": 1,
@@ -177,7 +177,7 @@
           "baseDepth": 86,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 88,
+          "wind": 87,
           "operations": 50,
           "powderProb": 0
         },
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-19T16:16:51.406Z",
+      "lastUpdated": "2026-04-19T16:48:05.198Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -308,9 +308,9 @@
           }
         ],
         "temperature": {
-          "avg": 11.1,
+          "avg": 11,
           "min": 6.3,
-          "max": 15.7
+          "max": 15.6
         },
         "wind": {
           "avg": 10.1,
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-19T16:16:46.561Z",
+      "lastUpdated": "2026-04-19T16:47:59.195Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -463,15 +463,15 @@
           }
         ],
         "temperature": {
-          "avg": 9.3,
+          "avg": 9.1,
           "min": 5.1,
-          "max": 13.3
+          "max": 13.1
         },
         "wind": {
           "avg": 8.4,
           "max": 14.5
         },
-        "precipProbability": 2,
+        "precipProbability": 1,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-19T16:16:51.010Z",
+      "lastUpdated": "2026-04-19T16:48:04.330Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -613,10 +613,10 @@
         "temperature": {
           "avg": 10,
           "min": 4.6,
-          "max": 16.3
+          "max": 16.1
         },
         "wind": {
-          "avg": 7.1,
+          "avg": 7.4,
           "max": 13.8
         },
         "precipProbability": 1,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-19T16:16:54.303Z",
+  "lastUpdated": "2026-04-19T16:48:06.796Z",
   "count": 5
 }
