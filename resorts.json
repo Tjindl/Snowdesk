@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-21T05:47:32.613Z",
+      "lastUpdated": "2026-04-21T06:48:21.663Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-21T05:47:40.631Z",
+      "lastUpdated": "2026-04-21T06:48:26.057Z",
       "snow": {
         "base": "206cm",
         "snowfall12h": "0cm",
@@ -154,7 +154,7 @@
           }
         ],
         "temperature": {
-          "avg": 13.4,
+          "avg": 13.5,
           "min": 6.6,
           "max": 19.9
         },
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-21T05:47:39.110Z",
+      "lastUpdated": "2026-04-21T06:48:25.227Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -343,7 +343,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-21T05:47:38.315Z",
+      "lastUpdated": "2026-04-21T06:48:25.675Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -461,8 +461,8 @@
           "max": 17.3
         },
         "wind": {
-          "avg": 13.9,
-          "max": 20.3
+          "avg": 13.8,
+          "max": 20
         },
         "precipProbability": 2,
         "peakWindow": {
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-21T05:47:34.266Z",
+      "lastUpdated": "2026-04-21T06:48:20.969Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -611,7 +611,7 @@
           }
         ],
         "temperature": {
-          "avg": 9.9,
+          "avg": 9.8,
           "min": 4.4,
           "max": 14.3
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-21T05:47:41.487Z",
+  "lastUpdated": "2026-04-21T06:48:26.747Z",
   "count": 5
 }
