@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-22T12:35:07.346Z",
+      "lastUpdated": "2026-04-22T13:38:57.251Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-22T12:35:10.878Z",
+      "lastUpdated": "2026-04-22T13:39:05.641Z",
       "snow": {
         "base": "206cm",
         "snowfall12h": "0cm",
@@ -154,13 +154,13 @@
           }
         ],
         "temperature": {
-          "avg": 10.3,
-          "min": 5.5,
-          "max": 13.5
+          "avg": 10,
+          "min": 5.2,
+          "max": 13.2
         },
         "wind": {
-          "avg": 8,
-          "max": 14.3
+          "avg": 9.2,
+          "max": 15.4
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -177,7 +177,7 @@
           "baseDepth": 86,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 82,
+          "wind": 80,
           "operations": 50,
           "powderProb": 0
         },
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-22T12:35:10.613Z",
+      "lastUpdated": "2026-04-22T13:39:03.527Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -308,13 +308,13 @@
           }
         ],
         "temperature": {
-          "avg": 8.9,
-          "min": 6.3,
-          "max": 12.1
+          "avg": 8.8,
+          "min": 6.1,
+          "max": 11.9
         },
         "wind": {
-          "avg": 10.7,
-          "max": 14.1
+          "avg": 10.5,
+          "max": 14.2
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -331,7 +331,7 @@
           "baseDepth": 83,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 79,
+          "wind": 80,
           "operations": 25,
           "powderProb": 0
         },
@@ -343,7 +343,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-22T12:35:09.894Z",
+      "lastUpdated": "2026-04-22T13:39:03.155Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -456,13 +456,13 @@
           }
         ],
         "temperature": {
-          "avg": 6.7,
-          "min": -0.2,
+          "avg": 6.8,
+          "min": -0.1,
           "max": 10.2
         },
         "wind": {
-          "avg": 20.5,
-          "max": 28.9
+          "avg": 21.3,
+          "max": 32.7
         },
         "precipProbability": 2,
         "peakWindow": {
@@ -470,7 +470,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 18,
+      "score": 17,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -479,7 +479,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 59,
+          "wind": 56,
           "operations": 50,
           "powderProb": 0
         },
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-22T12:35:05.926Z",
+      "lastUpdated": "2026-04-22T13:38:58.807Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -613,11 +613,11 @@
         "temperature": {
           "avg": 6.1,
           "min": 3.2,
-          "max": 9.7
+          "max": 10
         },
         "wind": {
           "avg": 10.7,
-          "max": 21.4
+          "max": 23.2
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -634,7 +634,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 75,
+          "wind": 73,
           "operations": 0,
           "powderProb": 0
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-22T12:35:11.582Z",
+  "lastUpdated": "2026-04-22T13:39:06.503Z",
   "count": 5
 }
