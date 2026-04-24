@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-24T12:31:46.447Z",
+      "lastUpdated": "2026-04-24T13:38:03.027Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-24T12:31:54.642Z",
+      "lastUpdated": "2026-04-24T13:38:08.309Z",
       "snow": {
         "base": "205cm",
         "snowfall12h": "0cm",
@@ -155,12 +155,12 @@
         ],
         "temperature": {
           "avg": 6.1,
-          "min": 2.7,
-          "max": 10.5
+          "min": 2.5,
+          "max": 10.7
         },
         "wind": {
-          "avg": 14.6,
-          "max": 20.8
+          "avg": 14.5,
+          "max": 20.5
         },
         "precipProbability": 0,
         "peakWindow": {
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-24T12:31:52.844Z",
+      "lastUpdated": "2026-04-24T13:38:06.769Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -308,12 +308,12 @@
           }
         ],
         "temperature": {
-          "avg": 5.9,
-          "min": 2.6,
-          "max": 9.3
+          "avg": 5.7,
+          "min": 2.3,
+          "max": 9
         },
         "wind": {
-          "avg": 9.6,
+          "avg": 10.7,
           "max": 18.6
         },
         "precipProbability": 0,
@@ -331,7 +331,7 @@
           "baseDepth": 83,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 78,
+          "wind": 76,
           "operations": 17,
           "powderProb": 0
         },
@@ -343,7 +343,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-24T12:31:49.315Z",
+      "lastUpdated": "2026-04-24T13:38:05.565Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -456,13 +456,13 @@
           }
         ],
         "temperature": {
-          "avg": 0.4,
-          "min": -5.5,
-          "max": 4.7
+          "avg": 0.6,
+          "min": -4.3,
+          "max": 5
         },
         "wind": {
-          "avg": 12.4,
-          "max": 18.8
+          "avg": 13.4,
+          "max": 22
         },
         "precipProbability": 0,
         "peakWindow": {
@@ -470,7 +470,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 28,
+      "score": 27,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -478,8 +478,8 @@
           "freshSnow": 17,
           "baseDepth": 0,
           "forecastMomentum": 13,
-          "temperature": 56,
-          "wind": 75,
+          "temperature": 54,
+          "wind": 71,
           "operations": 50,
           "powderProb": 0
         },
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-24T12:31:47.794Z",
+      "lastUpdated": "2026-04-24T13:38:01.088Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -611,12 +611,12 @@
           }
         ],
         "temperature": {
-          "avg": 3.2,
+          "avg": 3,
           "min": -0.1,
-          "max": 6.2
+          "max": 6.1
         },
         "wind": {
-          "avg": 8.9,
+          "avg": 9.2,
           "max": 16.9
         },
         "precipProbability": 0,
@@ -633,7 +633,7 @@
           "freshSnow": 17,
           "baseDepth": 0,
           "forecastMomentum": 13,
-          "temperature": 26,
+          "temperature": 28,
           "wind": 79,
           "operations": 0,
           "powderProb": 0
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-24T12:31:55.548Z",
+  "lastUpdated": "2026-04-24T13:38:09.057Z",
   "count": 5
 }
