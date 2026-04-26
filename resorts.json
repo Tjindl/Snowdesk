@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-26T08:33:30.590Z",
+      "lastUpdated": "2026-04-26T09:25:55.909Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-26T08:33:40.345Z",
+      "lastUpdated": "2026-04-26T09:26:04.133Z",
       "snow": {
         "base": "205cm",
         "snowfall12h": "0cm",
@@ -154,13 +154,13 @@
           }
         ],
         "temperature": {
-          "avg": 7.8,
+          "avg": 7.7,
           "min": 3.5,
-          "max": 12
+          "max": 11.8
         },
         "wind": {
-          "avg": 11.1,
-          "max": 17.3
+          "avg": 11.2,
+          "max": 17.2
         },
         "precipProbability": 0,
         "peakWindow": {
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-26T08:33:35.920Z",
+      "lastUpdated": "2026-04-26T09:26:02.641Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -308,13 +308,13 @@
           }
         ],
         "temperature": {
-          "avg": 8.7,
+          "avg": 8.4,
           "min": 5,
-          "max": 12.4
+          "max": 11.9
         },
         "wind": {
-          "avg": 9.5,
-          "max": 14.7
+          "avg": 9,
+          "max": 13
         },
         "precipProbability": 0,
         "peakWindow": {
@@ -331,7 +331,7 @@
           "baseDepth": 83,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 80,
+          "wind": 82,
           "operations": 17,
           "powderProb": 0
         },
@@ -343,7 +343,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-26T08:33:35.594Z",
+      "lastUpdated": "2026-04-26T09:26:00.719Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -456,13 +456,13 @@
           }
         ],
         "temperature": {
-          "avg": 1.4,
-          "min": -3.9,
-          "max": 5.8
+          "avg": 1.8,
+          "min": -3.7,
+          "max": 6
         },
         "wind": {
-          "avg": 9.2,
-          "max": 12.9
+          "avg": 10.4,
+          "max": 14.3
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -470,7 +470,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 27,
+      "score": 25,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -478,8 +478,8 @@
           "freshSnow": 17,
           "baseDepth": 0,
           "forecastMomentum": 13,
-          "temperature": 44,
-          "wind": 82,
+          "temperature": 38,
+          "wind": 80,
           "operations": 50,
           "powderProb": 1
         },
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-26T08:33:32.766Z",
+      "lastUpdated": "2026-04-26T09:25:57.182Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -611,15 +611,15 @@
           }
         ],
         "temperature": {
-          "avg": 6.6,
-          "min": 3.1,
-          "max": 10
+          "avg": 6.5,
+          "min": 3.6,
+          "max": 9.8
         },
         "wind": {
-          "avg": 8.7,
-          "max": 16.9
+          "avg": 8.3,
+          "max": 13.7
         },
-        "precipProbability": 1,
+        "precipProbability": 0,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -634,7 +634,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 80,
+          "wind": 82,
           "operations": 0,
           "powderProb": 0
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-26T08:33:41.132Z",
+  "lastUpdated": "2026-04-26T09:26:05.076Z",
   "count": 5
 }
