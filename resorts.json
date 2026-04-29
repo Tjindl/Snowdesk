@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-29T21:55:18.906Z",
+      "lastUpdated": "2026-04-29T22:25:33.429Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-04-29T21:55:26.364Z",
+      "lastUpdated": "2026-04-29T22:25:41.443Z",
       "snow": {
         "base": "197cm",
         "snowfall12h": "0cm",
@@ -159,7 +159,7 @@
           "max": 16.6
         },
         "wind": {
-          "avg": 4.4,
+          "avg": 4.7,
           "max": 8.7
         },
         "precipProbability": 0,
@@ -177,7 +177,7 @@
           "baseDepth": 85,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 90,
+          "wind": 89,
           "operations": 50,
           "powderProb": 0
         },
@@ -189,7 +189,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-29T21:55:25.699Z",
+      "lastUpdated": "2026-04-29T22:25:40.401Z",
       "snow": {
         "base": "185 cm",
         "snowOvernight": "0 cm",
@@ -313,8 +313,8 @@
           "max": 12.5
         },
         "wind": {
-          "avg": 5.1,
-          "max": 8.2
+          "avg": 5,
+          "max": 8.9
         },
         "precipProbability": 0,
         "peakWindow": {
@@ -343,7 +343,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-04-29T21:55:20.627Z",
+      "lastUpdated": "2026-04-29T22:25:35.258Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -468,7 +468,7 @@
           "max": 11.2
         },
         "wind": {
-          "avg": 4.5,
+          "avg": 4.7,
           "max": 7.4
         },
         "precipProbability": 0,
@@ -498,7 +498,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-04-29T21:55:24.774Z",
+      "lastUpdated": "2026-04-29T22:25:39.438Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -616,8 +616,8 @@
           "max": 14.2
         },
         "wind": {
-          "avg": 10,
-          "max": 16
+          "avg": 10.9,
+          "max": 21.6
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -625,7 +625,7 @@
           "label": "Next few hours"
         }
       },
-      "score": 20,
+      "score": 19,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -634,7 +634,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 79,
+          "wind": 74,
           "operations": 50,
           "powderProb": 0
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-04-29T21:55:27.135Z",
+  "lastUpdated": "2026-04-29T22:25:42.150Z",
   "count": 5
 }
