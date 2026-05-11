@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-11T06:47:28.948Z",
+      "lastUpdated": "2026-05-11T08:14:52.494Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-05-11T06:47:37.594Z",
+      "lastUpdated": "2026-05-11T08:14:59.830Z",
       "snow": {
         "base": "157cm",
         "snowfall12h": "0cm",
@@ -154,21 +154,21 @@
           }
         ],
         "temperature": {
-          "avg": 10.5,
-          "min": 7,
-          "max": 14.7
+          "avg": 11.8,
+          "min": 5.2,
+          "max": 17.5
         },
         "wind": {
-          "avg": 10.7,
-          "max": 20.3
+          "avg": 5.4,
+          "max": 10.8
         },
-        "precipProbability": 5,
+        "precipProbability": 0,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
         }
       },
-      "score": 31,
+      "score": 32,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -177,7 +177,7 @@
           "baseDepth": 79,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 75,
+          "wind": 87,
           "operations": 50,
           "powderProb": 0
         },
@@ -189,7 +189,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-05-11T06:47:35.395Z",
+      "lastUpdated": "2026-05-11T08:14:59.051Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -302,21 +302,21 @@
           }
         ],
         "temperature": {
-          "avg": 11.6,
-          "min": 6.3,
-          "max": 16.8
+          "avg": 8.5,
+          "min": 1.2,
+          "max": 14.3
         },
         "wind": {
-          "avg": 17.8,
-          "max": 30.8
+          "avg": 8.7,
+          "max": 27.1
         },
-        "precipProbability": 6,
+        "precipProbability": 1,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
         }
       },
-      "score": 18,
+      "score": 19,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -325,7 +325,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 61,
+          "wind": 73,
           "operations": 50,
           "powderProb": 0
         },
@@ -337,7 +337,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-11T06:47:34.494Z",
+      "lastUpdated": "2026-05-11T08:14:58.736Z",
       "snow": {
         "base": "0 cm",
         "snowOvernight": "0 cm",
@@ -456,21 +456,21 @@
           }
         ],
         "temperature": {
-          "avg": 9.1,
-          "min": 6.5,
-          "max": 12.3
+          "avg": 10.1,
+          "min": 5.5,
+          "max": 14.3
         },
         "wind": {
-          "avg": 10,
-          "max": 16.6
+          "avg": 7.3,
+          "max": 12.1
         },
-        "precipProbability": 3,
+        "precipProbability": 0,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
         }
       },
-      "score": 16,
+      "score": 17,
       "grade": "Poor",
       "trend": "steady",
       "scoreMeta": {
@@ -479,7 +479,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 79,
+          "wind": 84,
           "operations": 17,
           "powderProb": 0
         },
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-11T06:47:31.615Z",
+      "lastUpdated": "2026-05-11T08:14:54.916Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -611,15 +611,15 @@
           }
         ],
         "temperature": {
-          "avg": 7.8,
-          "min": 5,
-          "max": 10.6
+          "avg": 9,
+          "min": 4.8,
+          "max": 12.7
         },
         "wind": {
-          "avg": 8.5,
-          "max": 18.2
+          "avg": 6.2,
+          "max": 10.9
         },
-        "precipProbability": 3,
+        "precipProbability": 0,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -634,7 +634,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 79,
+          "wind": 86,
           "operations": 0,
           "powderProb": 0
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-05-11T06:47:38.531Z",
+  "lastUpdated": "2026-05-11T08:15:01.128Z",
   "count": 5
 }
