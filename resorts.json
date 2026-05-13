@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-13T11:21:27.559Z",
+      "lastUpdated": "2026-05-13T12:16:26.361Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-05-13T11:21:35.102Z",
+      "lastUpdated": "2026-05-13T12:16:32.525Z",
       "snow": {
         "base": "114cm",
         "snowfall12h": "0cm",
@@ -54,7 +54,7 @@
       "forecast": {
         "snowfall24h": 0,
         "snowfall48h": 3,
-        "snowfall72h": 6.8,
+        "snowfall72h": 8.6,
         "hourlySnow": [
           {
             "hour": 0,
@@ -154,15 +154,15 @@
           }
         ],
         "temperature": {
-          "avg": 12,
+          "avg": 11.9,
           "min": 8,
           "max": 14
         },
         "wind": {
-          "avg": 14,
-          "max": 25.4
+          "avg": 13.6,
+          "max": 24.5
         },
-        "precipProbability": 13,
+        "precipProbability": 12,
         "peakWindow": {
           "startsIn": 44,
           "label": "Day after tomorrow"
@@ -177,7 +177,7 @@
           "baseDepth": 70,
           "forecastMomentum": 18,
           "temperature": 0,
-          "wind": 68,
+          "wind": 69,
           "operations": 50,
           "powderProb": 0
         },
@@ -189,7 +189,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-05-13T11:21:33.092Z",
+      "lastUpdated": "2026-05-13T12:16:30.073Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -201,8 +201,8 @@
       "isOpen": true,
       "forecast": {
         "snowfall24h": 0,
-        "snowfall48h": 0,
-        "snowfall72h": 0.3,
+        "snowfall48h": 0.1,
+        "snowfall72h": 0.1,
         "hourlySnow": [
           {
             "hour": 0,
@@ -302,18 +302,18 @@
           }
         ],
         "temperature": {
-          "avg": 10.5,
+          "avg": 10.7,
           "min": 6,
           "max": 15
         },
         "wind": {
-          "avg": 13.3,
-          "max": 19.4
+          "avg": 14.2,
+          "max": 19.1
         },
         "precipProbability": 41,
         "peakWindow": {
-          "startsIn": 0,
-          "label": "Next few hours"
+          "startsIn": 47,
+          "label": "Day after tomorrow"
         }
       },
       "score": 19,
@@ -337,7 +337,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-13T11:21:33.246Z",
+      "lastUpdated": "2026-05-13T12:16:30.373Z",
       "snow": {
         "base": "0 cm",
         "snowOvernight": "0 cm",
@@ -461,10 +461,10 @@
           "max": 12.9
         },
         "wind": {
-          "avg": 15.5,
-          "max": 22.6
+          "avg": 14.8,
+          "max": 24.3
         },
-        "precipProbability": 16,
+        "precipProbability": 14,
         "peakWindow": {
           "startsIn": 41,
           "label": "Day after tomorrow"
@@ -479,7 +479,7 @@
           "baseDepth": 0,
           "forecastMomentum": 15,
           "temperature": 0,
-          "wind": 69,
+          "wind": 68,
           "operations": 17,
           "powderProb": 0
         },
@@ -491,7 +491,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-13T11:21:30.026Z",
+      "lastUpdated": "2026-05-13T12:16:24.014Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -616,10 +616,10 @@
           "max": 12
         },
         "wind": {
-          "avg": 12.4,
-          "max": 22
+          "avg": 11.8,
+          "max": 25.5
         },
-        "precipProbability": 19,
+        "precipProbability": 17,
         "peakWindow": {
           "startsIn": 42,
           "label": "Day after tomorrow"
@@ -634,7 +634,7 @@
           "baseDepth": 0,
           "forecastMomentum": 18,
           "temperature": 0,
-          "wind": 72,
+          "wind": 71,
           "operations": 0,
           "powderProb": 0
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-05-13T11:21:36.001Z",
+  "lastUpdated": "2026-05-13T12:16:33.201Z",
   "count": 5
 }
