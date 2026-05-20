@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-20T22:07:01.428Z",
+      "lastUpdated": "2026-05-20T22:58:15.731Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-05-20T22:07:09.326Z",
+      "lastUpdated": "2026-05-20T22:58:24.324Z",
       "snow": {
         "base": null,
         "snowfall12h": null,
@@ -154,15 +154,15 @@
           }
         ],
         "temperature": {
-          "avg": 12.2,
+          "avg": 12.4,
           "min": 6.4,
-          "max": 17.6
+          "max": 18.6
         },
         "wind": {
           "avg": 5.6,
           "max": 11.2
         },
-        "precipProbability": 0,
+        "precipProbability": 1,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -189,7 +189,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-20T22:07:03.910Z",
+      "lastUpdated": "2026-05-20T22:58:16.644Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -311,7 +311,7 @@
         "temperature": {
           "avg": 8.8,
           "min": 3.6,
-          "max": 13.5
+          "max": 13.1
         },
         "wind": {
           "avg": 7.5,
@@ -344,7 +344,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-05-20T22:07:07.831Z",
+      "lastUpdated": "2026-05-20T22:58:19.652Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -459,7 +459,7 @@
         "temperature": {
           "avg": 8.6,
           "min": 4.9,
-          "max": 12.4
+          "max": 12.7
         },
         "wind": {
           "avg": 18.2,
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-20T22:07:07.901Z",
+      "lastUpdated": "2026-05-20T22:58:20.938Z",
       "snow": {
         "base": "0 cm",
         "snowOvernight": "0 cm",
@@ -613,7 +613,7 @@
         "temperature": {
           "avg": 10,
           "min": 4.5,
-          "max": 14.2
+          "max": 14.4
         },
         "wind": {
           "avg": 7.6,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-05-20T22:07:10.197Z",
+  "lastUpdated": "2026-05-20T22:58:24.956Z",
   "count": 5
 }
