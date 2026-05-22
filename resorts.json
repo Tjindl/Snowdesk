@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-22T17:39:48.542Z",
+      "lastUpdated": "2026-05-22T18:44:37.814Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-05-22T17:39:51.008Z",
+      "lastUpdated": "2026-05-22T18:44:40.436Z",
       "snow": {
         "base": null,
         "snowfall12h": null,
@@ -159,8 +159,8 @@
           "max": 18.5
         },
         "wind": {
-          "avg": 8.5,
-          "max": 13.8
+          "avg": 8.2,
+          "max": 13.6
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -189,7 +189,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-05-22T17:39:49.609Z",
+      "lastUpdated": "2026-05-22T18:44:38.624Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -307,8 +307,8 @@
           "max": 14.8
         },
         "wind": {
-          "avg": 7.8,
-          "max": 20.6
+          "avg": 8,
+          "max": 17.3
         },
         "precipProbability": 4,
         "peakWindow": {
@@ -325,7 +325,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 78,
+          "wind": 80,
           "operations": 50,
           "powderProb": 0
         },
@@ -337,7 +337,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-22T17:39:44.282Z",
+      "lastUpdated": "2026-05-22T18:44:34.879Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -462,7 +462,7 @@
           "max": 14.1
         },
         "wind": {
-          "avg": 5.6,
+          "avg": 5.4,
           "max": 12
         },
         "precipProbability": 0,
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-22T17:39:49.788Z",
+      "lastUpdated": "2026-05-22T18:44:39.330Z",
       "snow": {
         "base": "0 cm",
         "snowOvernight": "0 cm",
@@ -616,7 +616,7 @@
           "max": 15.8
         },
         "wind": {
-          "avg": 7.1,
+          "avg": 7.2,
           "max": 14.1
         },
         "precipProbability": 0,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-05-22T17:39:51.801Z",
+  "lastUpdated": "2026-05-22T18:44:41.249Z",
   "count": 5
 }
