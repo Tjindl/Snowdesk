@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-24T20:50:38.364Z",
+      "lastUpdated": "2026-05-24T21:23:40.956Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-05-24T20:50:46.351Z",
+      "lastUpdated": "2026-05-24T21:23:45.602Z",
       "snow": {
         "base": null,
         "snowfall12h": null,
@@ -162,7 +162,7 @@
           "avg": 12,
           "max": 20.5
         },
-        "precipProbability": 4,
+        "precipProbability": 3,
         "peakWindow": {
           "startsIn": 45,
           "label": "Day after tomorrow"
@@ -189,7 +189,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-24T20:50:40.565Z",
+      "lastUpdated": "2026-05-24T21:23:41.512Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -317,7 +317,7 @@
           "avg": 9,
           "max": 15.7
         },
-        "precipProbability": 3,
+        "precipProbability": 2,
         "peakWindow": {
           "startsIn": 37,
           "label": "Day after tomorrow"
@@ -344,7 +344,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-05-24T20:50:44.360Z",
+      "lastUpdated": "2026-05-24T21:23:44.134Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-24T20:50:43.240Z",
+      "lastUpdated": "2026-05-24T21:23:45.189Z",
       "snow": {
         "base": "0 cm",
         "snowOvernight": "0 cm",
@@ -619,7 +619,7 @@
           "avg": 10.2,
           "max": 20.8
         },
-        "precipProbability": 3,
+        "precipProbability": 2,
         "peakWindow": {
           "startsIn": 38,
           "label": "Day after tomorrow"
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-05-24T20:50:47.187Z",
+  "lastUpdated": "2026-05-24T21:23:46.207Z",
   "count": 5
 }
