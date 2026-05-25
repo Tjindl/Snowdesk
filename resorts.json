@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-25T22:53:46.803Z",
+      "lastUpdated": "2026-05-25T23:30:10.070Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-25T22:53:46.122Z",
+      "lastUpdated": "2026-05-25T23:30:09.734Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -169,7 +169,7 @@
           "avg": 13.7,
           "max": 20.5
         },
-        "precipProbability": 55,
+        "precipProbability": 54,
         "peakWindow": {
           "startsIn": 17,
           "label": "This afternoon"
@@ -196,7 +196,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-05-25T22:53:51.728Z",
+      "lastUpdated": "2026-05-25T23:30:15.985Z",
       "snow": {
         "base": null,
         "snowfall12h": null,
@@ -317,7 +317,7 @@
           "avg": 10.8,
           "max": 19.6
         },
-        "precipProbability": 52,
+        "precipProbability": 50,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -344,7 +344,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-05-25T22:53:49.999Z",
+      "lastUpdated": "2026-05-25T23:30:14.592Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -465,7 +465,7 @@
           "avg": 12.1,
           "max": 23.2
         },
-        "precipProbability": 10,
+        "precipProbability": 11,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-25T22:53:50.703Z",
+      "lastUpdated": "2026-05-25T23:30:14.980Z",
       "snow": {
         "base": "0 cm",
         "snowOvernight": "0 cm",
@@ -619,7 +619,7 @@
           "avg": 17.5,
           "max": 30.1
         },
-        "precipProbability": 53,
+        "precipProbability": 52,
         "peakWindow": {
           "startsIn": 0,
           "label": "Next few hours"
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-05-25T22:53:52.591Z",
+  "lastUpdated": "2026-05-25T23:30:25.365Z",
   "count": 5
 }
