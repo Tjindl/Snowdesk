@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-29T02:25:21.271Z",
+      "lastUpdated": "2026-05-29T03:48:29.108Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-05-29T02:25:26.499Z",
+      "lastUpdated": "2026-05-29T03:48:35.609Z",
       "snow": {
         "base": null,
         "snowfall12h": null,
@@ -154,12 +154,12 @@
           }
         ],
         "temperature": {
-          "avg": 19.2,
+          "avg": 19.3,
           "min": 13.4,
           "max": 25.8
         },
         "wind": {
-          "avg": 9.2,
+          "avg": 9,
           "max": 17.1
         },
         "precipProbability": 1,
@@ -189,7 +189,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-29T02:25:20.064Z",
+      "lastUpdated": "2026-05-29T03:48:28.773Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -309,13 +309,13 @@
           }
         ],
         "temperature": {
-          "avg": 14.7,
+          "avg": 14.9,
           "min": 11.3,
           "max": 18.2
         },
         "wind": {
           "avg": 6.7,
-          "max": 12.1
+          "max": 12.2
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -344,7 +344,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-05-29T02:25:24.594Z",
+      "lastUpdated": "2026-05-29T03:48:33.699Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -462,8 +462,8 @@
           "max": 24.9
         },
         "wind": {
-          "avg": 12.8,
-          "max": 28
+          "avg": 13.2,
+          "max": 26.9
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-29T02:25:23.295Z",
+      "lastUpdated": "2026-05-29T03:48:33.562Z",
       "snow": {
         "base": "0 cm",
         "snowOvernight": "0 cm",
@@ -616,8 +616,8 @@
           "max": 19.8
         },
         "wind": {
-          "avg": 6.5,
-          "max": 17.4
+          "avg": 6.2,
+          "max": 15.5
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -634,7 +634,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 82,
+          "wind": 83,
           "operations": 17,
           "powderProb": 0
         },
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-05-29T02:25:27.123Z",
+  "lastUpdated": "2026-05-29T03:48:36.549Z",
   "count": 5
 }
