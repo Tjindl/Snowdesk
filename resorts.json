@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-30T21:51:37.144Z",
+      "lastUpdated": "2026-05-30T22:26:03.989Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-05-30T21:51:44.744Z",
+      "lastUpdated": "2026-05-30T22:26:12.259Z",
       "snow": {
         "base": null,
         "snowfall12h": null,
@@ -159,8 +159,8 @@
           "max": 13.6
         },
         "wind": {
-          "avg": 8.6,
-          "max": 13.4
+          "avg": 8.7,
+          "max": 13.3
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -189,7 +189,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-05-30T21:51:43.092Z",
+      "lastUpdated": "2026-05-30T22:26:10.557Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -307,7 +307,7 @@
           "max": 13.3
         },
         "wind": {
-          "avg": 13.4,
+          "avg": 14.7,
           "max": 21.5
         },
         "precipProbability": 2,
@@ -325,7 +325,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 72,
+          "wind": 70,
           "operations": 50,
           "powderProb": 0
         },
@@ -337,7 +337,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-30T21:51:39.463Z",
+      "lastUpdated": "2026-05-30T22:26:05.915Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -462,8 +462,8 @@
           "max": 8.6
         },
         "wind": {
-          "avg": 9.3,
-          "max": 17.4
+          "avg": 9.5,
+          "max": 17
         },
         "precipProbability": 0,
         "peakWindow": {
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-30T21:51:42.086Z",
+      "lastUpdated": "2026-05-30T22:26:08.317Z",
       "snow": {
         "base": "0 cm",
         "snowOvernight": "0 cm",
@@ -616,7 +616,7 @@
           "max": 9.6
         },
         "wind": {
-          "avg": 9.6,
+          "avg": 9.8,
           "max": 16
         },
         "precipProbability": 0,
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-05-30T21:51:45.620Z",
+  "lastUpdated": "2026-05-30T22:26:12.913Z",
   "count": 5
 }
