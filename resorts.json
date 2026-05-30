@@ -3,7 +3,7 @@
     {
       "name": "Mount Seymour",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-30T14:37:32.541Z",
+      "lastUpdated": "2026-05-30T15:32:02.984Z",
       "snow": {
         "base": "113cm",
         "summit": "201cm",
@@ -41,7 +41,7 @@
     {
       "name": "Whistler Blackcomb",
       "location": "Whistler, BC",
-      "lastUpdated": "2026-05-30T14:37:38.217Z",
+      "lastUpdated": "2026-05-30T15:32:11.951Z",
       "snow": {
         "base": null,
         "snowfall12h": null,
@@ -160,7 +160,7 @@
         },
         "wind": {
           "avg": 9.6,
-          "max": 15.8
+          "max": 15.6
         },
         "precipProbability": 1,
         "peakWindow": {
@@ -177,7 +177,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 79,
+          "wind": 80,
           "operations": 50,
           "powderProb": 0
         },
@@ -189,7 +189,7 @@
     {
       "name": "Grouse Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-30T14:37:31.589Z",
+      "lastUpdated": "2026-05-30T15:32:05.967Z",
       "snow": {
         "snowfall12h": null,
         "snowOvernight": null,
@@ -344,7 +344,7 @@
     {
       "name": "Sun Peaks",
       "location": "Sun Peaks, BC",
-      "lastUpdated": "2026-05-30T14:37:36.864Z",
+      "lastUpdated": "2026-05-30T15:32:10.196Z",
       "snow": {
         "base": null,
         "summit": null,
@@ -462,8 +462,8 @@
           "max": 14.6
         },
         "wind": {
-          "avg": 11.1,
-          "max": 25.3
+          "avg": 10.5,
+          "max": 21.1
         },
         "precipProbability": 3,
         "peakWindow": {
@@ -480,7 +480,7 @@
           "baseDepth": 0,
           "forecastMomentum": 13,
           "temperature": 0,
-          "wind": 71,
+          "wind": 75,
           "operations": 50,
           "powderProb": 0
         },
@@ -492,7 +492,7 @@
     {
       "name": "Cypress Mountain",
       "location": "North Vancouver, BC",
-      "lastUpdated": "2026-05-30T14:37:35.357Z",
+      "lastUpdated": "2026-05-30T15:32:09.311Z",
       "snow": {
         "base": "0 cm",
         "snowOvernight": "0 cm",
@@ -616,8 +616,8 @@
           "max": 8.9
         },
         "wind": {
-          "avg": 9.4,
-          "max": 15
+          "avg": 9.6,
+          "max": 15.1
         },
         "precipProbability": 0,
         "peakWindow": {
@@ -644,6 +644,6 @@
       "isBestToday": false
     }
   ],
-  "lastUpdated": "2026-05-30T14:37:38.905Z",
+  "lastUpdated": "2026-05-30T15:32:12.574Z",
   "count": 5
 }
